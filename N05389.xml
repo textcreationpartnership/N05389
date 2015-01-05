@@ -113,8 +113,8 @@
    <text xml:lang="eng">
       <front>
          <div type="title_page">
-            <pb facs="tcp:006820_0000_0000000000000000"/>
-            <pb facs="tcp:006820_0001_0000000000000000"/>
+            <pb facs="unknown:006820_0000_0000000000000000"/>
+            <pb facs="unknown:006820_0001_0000000000000000"/>
             <p>A New Version of THE PSALMS OF DAVID Fitted to the <hi>Tunes</hi> used in the CHURCHES.</p>
             <p>With several HYMNS, OUT OF THE <hi>Old,</hi> and <hi>New,</hi> TESTAMENT.</p>
             <p>By <hi>IOHN BARNARD,</hi> Pastor of a Church in <hi>Marblehead.</hi>
@@ -122,7 +122,7 @@
             <p>BOSTON: N. E. Printed by J. DRAPER, for T. LEVERETT, in <hi>Cornhill.</hi> 1752.</p>
          </div>
          <div type="preface">
-            <pb facs="tcp:006820_0002_0000000000000000"/>
+            <pb facs="unknown:006820_0002_0000000000000000"/>
             <head>PREFACE.</head>
             <p>THO' the <hi>New-England</hi> Version of <gap reason="illegible" resp="#PDCC" extent="1 word">
                   <desc>〈◊〉</desc>
@@ -141,7 +141,7 @@
                   <desc>•</desc>
                </gap>e Time of near upon the last Three Years of my advanced Age, (this Day, thro' the Forbear<g ref="char:EOLhyphen"/>ance of God, compleating my <hi>seventieth</hi> Year,) in composing a <hi>New Version,</hi> suited to the <hi>Tunes</hi> used in our Churches, which, by Divine Assistance is now finished.</p>
             <p>
-               <pb facs="tcp:006820_0003_0000000000000000"/>My great Care has been to <gap reason="illegible" resp="#PDCC" extent="1 word">
+               <pb facs="unknown:006820_0003_0000000000000000"/>My great Care has been to <gap reason="illegible" resp="#PDCC" extent="1 word">
                   <desc>〈◊〉</desc>
                </gap> as close to the Original as I could, without a literal Tran<g ref="char:EOLhyphen"/>slation; to preserve the Sentiments of the sweet Singer of <hi>Israel;</hi> and to make, what seemed <gap reason="illegible" resp="#PDCC" extent="1 word">
                   <desc>〈◊〉</desc>
@@ -177,7 +177,7 @@
       </front>
       <body>
          <div type="Psalms">
-            <pb facs="tcp:006820_0004_0000000000000000"/>
+            <pb facs="unknown:006820_0004_0000000000000000"/>
             <head>THE PSALMS of <hi>DAVID.</hi>
             </head>
             <div n="1" type="book">
@@ -233,7 +233,7 @@
                   <l>Shall feel his Wrath, and melt away.</l>
                </div>
                <div n="2" type="Psalm">
-                  <pb n="2" facs="tcp:006820_0005_0000000000000000"/>
+                  <pb n="2" facs="unknown:006820_0005_0000000000000000"/>
                   <div type="version">
                      <head>
                         <hi>PSALM</hi> II.</head>
@@ -278,7 +278,7 @@
                      <l>"Them, as a Potter's Vessel, dasht,</l>
                      <l>"In Pieces spread abroad.</l>
                      <l>
-                        <pb n="3" facs="tcp:006820_0006_0000000000000000"/>
+                        <pb n="3" facs="unknown:006820_0006_0000000000000000"/>
                         <milestone type="tcpmilestone" unit="unspecified" n="10"/> Be wise, now, O ye Kings, and hear,</l>
                      <l>Earth's Judges, his mild Voice:</l>
                      <l>
@@ -326,7 +326,7 @@
                      <l>"On <hi>Zion</hi>'s sacred Hill alone;</l>
                      <l>"There it forever stands secure.</l>
                      <l>
-                        <pb n="4" facs="tcp:006820_0007_0000000000000000"/>
+                        <pb n="4" facs="unknown:006820_0007_0000000000000000"/>
                         <milestone type="tcpmilestone" unit="unspecified" n="7"/>"This is the firm Decree I've made,</l>
                      <l>"'Tis past in Heav'n, and changeth not;</l>
                      <l>"Thou art my Son, (<hi>Iehovah</hi> said)</l>
@@ -375,7 +375,7 @@
                         <desc>•</desc>
                      </gap>.</l>
                   <l>
-                     <pb n="5" facs="tcp:006820_0008_0000000000000000"/>
+                     <pb n="5" facs="unknown:006820_0008_0000000000000000"/>
                      <milestone type="tcpmilestone" unit="unspecified" n="5"/> I then could lay me down, and <gap reason="illegible" resp="#PDCC" extent="1 word">
                         <desc>〈◊〉</desc>
                      </gap>
@@ -431,7 +431,7 @@
                   <l>While resting on thy Bed, and learn</l>
                   <l>Contentment's noble Art.</l>
                   <l>
-                     <pb n="6" facs="tcp:006820_0009_0000000000000000"/>
+                     <pb n="6" facs="unknown:006820_0009_0000000000000000"/>
                      <milestone type="tcpmilestone" unit="unspecified" n="5"/> Offer to God, pure Sacrifice,</l>
                   <l>Free from all consciou<gap reason="illegible" resp="#PDCC" extent="1 letter">
                         <desc>•</desc>
@@ -486,7 +486,7 @@
                   <l>The Lord abhors such as employ</l>
                   <l>Themselves in Blood, and Guile devise.</l>
                   <l>
-                     <pb n="7" facs="tcp:006820_0010_0000000000000000"/>
+                     <pb n="7" facs="unknown:006820_0010_0000000000000000"/>
                      <milestone type="tcpmilestone" unit="unspecified" n="7"/> But I, thro' thine <gap reason="illegible" resp="#PDCC" extent="1 span">
                         <desc>〈…〉</desc>
                      </gap> Grace,</l>
@@ -582,7 +582,7 @@
                   </l>
                   <l>My Bones are rack'd with Pains.</l>
                   <l>
-                     <pb n="8" facs="tcp:006820_0011_0000000000000000"/>
+                     <pb n="8" facs="unknown:006820_0011_0000000000000000"/>
                      <milestone type="tcpmilestone" unit="unspecified" n="3"/> My Gri<gap reason="illegible" resp="#PDCC" extent="3 letters">
                         <desc>•••</desc>
                      </gap>, <gap reason="illegible" resp="#PDCC" extent="1 span">
@@ -648,7 +648,7 @@
                   <head>
                      <hi>PSALM</hi> VII.</head>
                   <l>
-                     <pb n="9" facs="tcp:006820_0012_0000000000000000"/>O Lord, my God, in <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <pb n="9" facs="unknown:006820_0012_0000000000000000"/>O Lord, my God, in <gap reason="illegible" resp="#PDCC" extent="1 word">
                         <desc>〈◊〉</desc>
                      </gap> alone,</l>
                   <l>I do my Trust repose;</l>
@@ -696,7 +696,7 @@
                   <div n="2" type="part">
                      <head>Second PART.</head>
                      <l>
-                        <pb n="10" facs="tcp:006820_0013_0000000000000000"/>
+                        <pb n="10" facs="unknown:006820_0013_0000000000000000"/>
                         <milestone type="tcpmilestone" unit="unspecified" n="9"/> Let vi<gap reason="illegible" resp="#PDCC" extent="1 letter">
                            <desc>•</desc>
                         </gap>e <gap reason="illegible" resp="#PDCC" extent="1 span">
@@ -749,7 +749,7 @@
                   <head>
                      <hi>PSALM</hi> VIII.</head>
                   <l>
-                     <pb n="11" facs="tcp:006820_0014_0000000000000000"/>O Lord, our Lord, in all the Earth,</l>
+                     <pb n="11" facs="unknown:006820_0014_0000000000000000"/>O Lord, our Lord, in all the Earth,</l>
                   <l>How excellent's thy Name!</l>
                   <l>Who hast the Heav'ns far above,</l>
                   <l>Established thy Fame.</l>
@@ -799,7 +799,7 @@
                </div>
                <div n="9" type="Psalm">
                   <pb n="12"
-                      facs="tcp:006820_0015_0000000000000000"
+                      facs="unknown:006820_0015_0000000000000000"
                       rendition="simple:additions"/>
                   <head>
                      <hi>PSALM</hi> IX.</head>
@@ -865,7 +865,7 @@
                      <desc>〈1 page missing〉</desc>
                   </gap>
                   <l>
-                     <pb n="15" facs="tcp:006820_0016_0000000000000000"/>
+                     <pb n="15" facs="unknown:006820_0016_0000000000000000"/>
                      <milestone type="tcpmilestone" unit="unspecified" n="5"/> H<gap reason="illegible" resp="#PDCC" extent="1 letter">
                         <desc>•</desc>
                      </gap> ev<gap reason="illegible" resp="#PDCC" extent="2 letters">
@@ -973,7 +973,7 @@
                      <l>Forget not thy poor suff'ring Saints,</l>
                      <l>Defence for them command.</l>
                      <l>
-                        <pb n="16" facs="tcp:006820_0017_0000000000000000"/>
+                        <pb n="16" facs="unknown:006820_0017_0000000000000000"/>
                         <milestone type="tcpmilestone" unit="unspecified" n="13"/> For <gap reason="illegible" resp="#PDCC" extent="1 word">
                            <desc>〈◊〉</desc>
                         </gap> should the wicked Man,</l>
@@ -1035,7 +1035,7 @@
                   <l>To shoot, and with a secret Blow,</l>
                   <l>The innocent to Ruin bring;</l>
                   <l>
-                     <pb n="17" facs="tcp:006820_0018_0000000000000000"/>
+                     <pb n="17" facs="unknown:006820_0018_0000000000000000"/>
                      <milestone type="tcpmilestone" unit="unspecified" n="3"/> If the Foundations of the State,</l>
                   <l>Justice, and Truth, are overthrown,</l>
                   <l>The Just can find no safe Retreat,</l>
@@ -1084,7 +1084,7 @@
                   <l>With the proud, threat'ning, boasting Tongue,</l>
                   <l>Which doth profanely scoff.</l>
                   <l>
-                     <pb n="18" facs="tcp:006820_0019_0000000000000000"/>
+                     <pb n="18" facs="unknown:006820_0019_0000000000000000"/>
                      <milestone type="tcpmilestone" unit="unspecified" n="4"/> Who say, "our artful Tongues alone,</l>
                   <l>"Prevailing Force afford;</l>
                   <l>"What sure; are not our Lips our own?</l>
@@ -1133,7 +1133,7 @@
                         <desc>•</desc>
                      </gap>st Death's deep Sleep me overtake.</l>
                   <l>
-                     <pb n="19" facs="tcp:006820_0020_0000000000000000"/>
+                     <pb n="19" facs="unknown:006820_0020_0000000000000000"/>
                      <milestone type="tcpmilestone" unit="unspecified" n="4"/> Lest my proud. Foe, with boasting Voice,</l>
                   <l>Should say, against him Iv'e prevail'd;</l>
                   <l>And those that trouble me rejoice,</l>
@@ -1178,7 +1178,7 @@
                   <l>When God, to plead the just Man's Cause,</l>
                   <l>In Vengeance shall appear.</l>
                   <l>
-                     <pb n="20" facs="tcp:006820_0021_0000000000000000"/>
+                     <pb n="20" facs="unknown:006820_0021_0000000000000000"/>
                      <milestone type="tcpmilestone" unit="unspecified" n="6"/> The pious Couns<gap reason="illegible" resp="#PDCC" extent="2 letters">
                         <desc>••</desc>
                      </gap> of the Poor,</l>
@@ -1234,7 +1234,7 @@
                   <l>For Succour, to thine Arms, I slee,</l>
                   <l>My Trust in Thee repose.</l>
                   <l>
-                     <pb n="21" facs="tcp:006820_0022_0000000000000000"/>
+                     <pb n="21" facs="unknown:006820_0022_0000000000000000"/>
                      <milestone type="tcpmilestone" unit="unspecified" n="2"/> Thou, O my Soul, to God hast said,</l>
                   <l>Thou art my Lord alone;</l>
                   <l>No Benefit's to Thee convey'd,</l>
@@ -1279,7 +1279,7 @@
                   <l>My dying Flesh secure shall rest,</l>
                   <l>In Hope to rise again.</l>
                   <l>
-                     <pb n="22" facs="tcp:006820_0023_0000000000000000"/>
+                     <pb n="22" facs="unknown:006820_0023_0000000000000000"/>
                      <milestone type="tcpmilestone" unit="unspecified" n="10"/> For thou wilt no<gap reason="illegible" resp="#PDCC" extent="1 letter">
                         <desc>•</desc>
                      </gap> abandon me,</l>
@@ -1329,7 +1329,7 @@
                   <l>To my Request incline thy Ear.</l>
                   <l>And hear my humble Speech.</l>
                   <div n="2" type="part">
-                     <pb n="23" facs="tcp:006820_0024_0000000000000000"/>
+                     <pb n="23" facs="unknown:006820_0024_0000000000000000"/>
                      <head>Second PART.</head>
                      <l>
                         <milestone type="tcpmilestone" unit="unspecified" n="7"/> O thou, who sav'st, with thy Right-hand,</l>
@@ -1377,7 +1377,7 @@
                   </div>
                </div>
                <div n="18" type="Psalm">
-                  <pb n="24" facs="tcp:006820_0025_0000000000000000"/>
+                  <pb n="24" facs="unknown:006820_0025_0000000000000000"/>
                   <head>
                      <hi>PSALM</hi> XVIII.</head>
                   <l>THee, Lord, my Strength, I'll dearly love.</l>
@@ -1424,7 +1424,7 @@
                      <l>Devouring Fire; in midst of those,</l>
                      <l>Hot Thunder-Bolts around him flew.</l>
                      <l>
-                        <pb n="25" facs="tcp:006820_0026_0000000000000000"/>
+                        <pb n="25" facs="unknown:006820_0026_0000000000000000"/>
                         <milestone type="tcpmilestone" unit="unspecified" n="9"/> He bow'd the Heavens, and came down,</l>
                      <l>In solemn Pomp march'd from hi<gap reason="illegible" resp="#PDCC" extent="1 letter">
                            <desc>•</desc>
@@ -1475,7 +1475,7 @@
                         <milestone type="tcpmilestone" unit="unspecified" n="17"/> From my strong Foe he set me free;</l>
                      <l>Too strong for me, who me did hate.</l>
                      <l>
-                        <pb n="26" facs="tcp:006820_0027_0000000000000000"/>
+                        <pb n="26" facs="unknown:006820_0027_0000000000000000"/>
                         <milestone type="tcpmilestone" unit="unspecified" n="18"/> In my dark Day they had o'ercome,</l>
                      <l>But God sustain'd me by his Might.</l>
                      <l>
@@ -1525,7 +1525,7 @@
                      <l>Whose stedfast Hopes on Thee abide.</l>
                   </div>
                   <div n="4" type="part">
-                     <pb n="27" facs="tcp:006820_0028_0000000000000000"/>
+                     <pb n="27" facs="unknown:006820_0028_0000000000000000"/>
                      <head>Fourth PART.</head>
                      <l>
                         <milestone type="tcpmilestone" unit="unspecified" n="31"/>"Whom, save <hi>Iehovah</hi> then alone,</l>
@@ -1573,7 +1573,7 @@
                         <milestone type="tcpmilestone" unit="unspecified" n="41"/> They cry'd for Help, but none did save;</l>
                      <l>Yea, to the Lord, who answer'd not.</l>
                      <l>
-                        <pb n="28" facs="tcp:006820_0029_0000000000000000"/>
+                        <pb n="28" facs="unknown:006820_0029_0000000000000000"/>
                         <milestone type="tcpmilestone" unit="unspecified" n="42"/> Then small as Dust, before the Wind,</l>
                      <l>Their mighty num'rous Troops I beat,</l>
                      <l>Their Corpse, with great Contempt design'd,</l>
@@ -1624,7 +1624,7 @@
                   <l>Thy Pow'r, and Skill, Divine<g ref="char:punc">▪</g>
                   </l>
                   <l>
-                     <pb n="29" facs="tcp:006820_0030_0000000000000000"/>
+                     <pb n="29" facs="unknown:006820_0030_0000000000000000"/>
                      <milestone type="tcpmilestone" unit="unspecified" n="2"/> Each Day, to next succeeding Day,</l>
                   <l>Discourses of thy Fame;</l>
                   <l>And Night, to Night, doth clearly show</l>
@@ -1668,7 +1668,7 @@
                      <l>His Judgments are establish'd Truth,</l>
                      <l>And wholly justify'd.</l>
                      <l>
-                        <pb n="30" facs="tcp:006820_0031_0000000000000000"/>
+                        <pb n="30" facs="unknown:006820_0031_0000000000000000"/>
                         <milestone type="tcpmilestone" unit="unspecified" n="10"/> More to be priz'd than Stores of Gold,</l>
                      <l>Refin'd with utmost Skill<g ref="char:punc">▪</g>
                      </l>
@@ -1729,7 +1729,7 @@
                      <milestone type="tcpmilestone" unit="unspecified" n="4"/> Crown thy Heart's Wishes with Success;</l>
                   <l>And all thy wholsome Counsels bless.</l>
                   <l>
-                     <pb n="31" facs="tcp:006820_0032_0000000000000000"/>
+                     <pb n="31" facs="unknown:006820_0032_0000000000000000"/>
                      <milestone type="tcpmilestone" unit="unspecified" n="5"/> In thy Salvation we'll rejoice;</l>
                   <l>Our Banners, with triumphant Voice,</l>
                   <l>In our God's Name, we'll high erect<g ref="char:punc">▪</g>
@@ -1818,7 +1818,7 @@
                         </gap> Length of Days thou did'st bestow,</l>
                      <l>And Life that ne'er should end.</l>
                      <l>
-                        <pb n="32" facs="tcp:006820_0033_0000000000000000"/>
+                        <pb n="32" facs="unknown:006820_0033_0000000000000000"/>
                         <milestone type="tcpmilestone" unit="unspecified" n="5"/> In thy Salvation, thou hast made</l>
                      <l>His Glory to be great;</l>
                      <l>With Majesty hast him array'd;</l>
@@ -1861,7 +1861,7 @@
                         <l>Thine Arrows on their Strings prepare,</l>
                         <l>And level at their Face.</l>
                         <l>
-                           <pb n="33" facs="tcp:006820_0034_0000000000000000"/>
+                           <pb n="33" facs="unknown:006820_0034_0000000000000000"/>
                            <milestone type="tcpmilestone" unit="unspecified" n="13"/> Be thou exalted, Lord, in Fame,</l>
                         <l>Thy Strength in Glory raise;</l>
                         <l>So we will sing thy wond'rous Name,</l>
@@ -1908,7 +1908,7 @@
                      <l>The Favour of God</l>
                      <l>Confirms his high State.</l>
                      <l>
-                        <pb n="34" facs="tcp:006820_0035_0000000000000000"/>
+                        <pb n="34" facs="unknown:006820_0035_0000000000000000"/>
                         <milestone type="tcpmilestone" unit="unspecified" n="8"/> Thy Hand shall discover,</l>
                      <l>And punish thy Foes:</l>
                      <l>Thy Right-hand, in Vengeance,</l>
@@ -1952,7 +1952,7 @@
                   <l>So far from helping me, and deaf</l>
                   <l>To all my mournful Cry?</l>
                   <l>
-                     <pb n="35" facs="tcp:006820_0036_0000000000000000"/>
+                     <pb n="35" facs="unknown:006820_0036_0000000000000000"/>
                      <milestone type="tcpmilestone" unit="unspecified" n="2"/> O thou my God, I cry all Day,</l>
                   <l>But thou hast no Regard;</l>
                   <l>I am not silent in the Night,</l>
@@ -1999,7 +1999,7 @@
                   <l>Thou, from my Infant-Days, hast been</l>
                   <l>My Guardian, and my God.</l>
                   <div n="2" type="part">
-                     <pb n="36" facs="tcp:006820_0037_0000000000000000"/>
+                     <pb n="36" facs="unknown:006820_0037_0000000000000000"/>
                      <head>Second PART.</head>
                      <l>
                         <milestone type="tcpmilestone" unit="unspecified" n="11"/> Forsake me not, when Trouble's near;</l>
@@ -2048,7 +2048,7 @@
                      <l>I will thy Praise proclaim.</l>
                   </div>
                   <div n="3" type="part">
-                     <pb n="37" facs="tcp:006820_0038_0000000000000000"/>
+                     <pb n="37" facs="unknown:006820_0038_0000000000000000"/>
                      <head>Third PART.</head>
                      <l>
                         <milestone type="tcpmilestone" unit="unspecified" n="23"/> Ye Worshipers of God, him praise.</l>
@@ -2094,7 +2094,7 @@
                   </div>
                </div>
                <div n="23" type="Psalm">
-                  <pb n="38" facs="tcp:006820_0039_0000000000000000"/>
+                  <pb n="38" facs="unknown:006820_0039_0000000000000000"/>
                   <head>
                      <hi>PSALM</hi> XXIII.</head>
                   <l>JEhovah my kind Shepherd i<gap reason="illegible" resp="#PDCC" extent="1 letter">
@@ -2144,7 +2144,7 @@
                   <l>For his Name's Sake, he gently leads</l>
                   <l>Me in the Paths of Righteousness.</l>
                   <l>
-                     <pb n="39" facs="tcp:006820_0040_0000000000000000"/>
+                     <pb n="39" facs="unknown:006820_0040_0000000000000000"/>
                      <milestone type="tcpmilestone" unit="unspecified" n="4"/> Tho' thro' Death's gloomy Vale I glide,</l>
                   <l>No threat'ning Dangers will I fear;</l>
                   <l>For thou art with me, Lord, to guide</l>
@@ -2189,7 +2189,7 @@
                   <l>And God, his Saviour, will him crown</l>
                   <l>With perfect Righteousness.</l>
                   <l>
-                     <pb n="40" facs="tcp:006820_0041_0000000000000000"/>
+                     <pb n="40" facs="unknown:006820_0041_0000000000000000"/>
                      <milestone type="tcpmilestone" unit="unspecified" n="6"/> This is the pious happy Race,</l>
                   <l>Shall view thy bless'd Abode;</l>
                   <l>Who now, with true Devotion, seek</l>
@@ -2239,7 +2239,7 @@
                   <l>And who, within his holy Place</l>
                   <l>Before him shall attend?</l>
                   <l>
-                     <pb n="41" facs="tcp:006820_0042_0000000000000000"/>
+                     <pb n="41" facs="unknown:006820_0042_0000000000000000"/>
                      <milestone type="tcpmilestone" unit="unspecified" n="4"/> The Man whose Hands are clean,</l>
                   <l>And Heart from Stains is pure;</l>
                   <l>Whose Soul's not rais'd to Vanity,</l>
@@ -2287,7 +2287,7 @@
                   <l>O let me not be put to shame,</l>
                   <l>Nor triumph let my Foes.</l>
                   <l>
-                     <pb n="42" facs="tcp:006820_0043_0000000000000000"/>
+                     <pb n="42" facs="unknown:006820_0043_0000000000000000"/>
                      <milestone type="tcpmilestone" unit="unspecified" n="3"/> Yea, Lord, let none thi<gap reason="illegible" resp="#PDCC" extent="1 letter">
                         <desc>•</desc>
                      </gap> wait on Thee,</l>
@@ -2336,7 +2336,7 @@
                         <milestone type="tcpmilestone" unit="unspecified" n="14"/> His Secrets God his Saints will teach;</l>
                      <l>And shew his Cov'nant Grace.</l>
                      <l>
-                        <pb n="43" facs="tcp:006820_0044_0000000000000000"/>
+                        <pb n="43" facs="unknown:006820_0044_0000000000000000"/>
                         <milestone type="tcpmilestone" unit="unspecified" n="15"/> Mine Eyes are ever to the Lord;</l>
                      <l>My Feet from Snares he'll free.</l>
                      <l>
@@ -2388,7 +2388,7 @@
                      <milestone type="tcpmilestone" unit="unspecified" n="7"/> That I may all thy wondrous Works,</l>
                   <l>With thankful Voice declare.</l>
                   <l>
-                     <pb n="44" facs="tcp:006820_0045_0000000000000000"/>
+                     <pb n="44" facs="unknown:006820_0045_0000000000000000"/>
                      <milestone type="tcpmilestone" unit="unspecified" n="8"/> To visit, Lord, thy sacred House,</l>
                   <l>Has been my great Delight;</l>
                   <l>That holy Tabernacle, where</l>
@@ -2434,7 +2434,7 @@
                   <l>I safe shall, in his secret Tent,</l>
                   <l>As on a Rock, abide.</l>
                   <l>
-                     <pb n="45" facs="tcp:006820_0046_0000000000000000"/>
+                     <pb n="45" facs="unknown:006820_0046_0000000000000000"/>
                      <milestone type="tcpmilestone" unit="unspecified" n="6"/> Now shall the Lord, o'er all my Foes,</l>
                   <l>My Head, in Triumph, raise:</l>
                   <l>And I'll, with Shouts, my Off'rings bring,</l>
@@ -2480,7 +2480,7 @@
                   </div>
                </div>
                <div n="28" type="Psalm">
-                  <pb n="46" facs="tcp:006820_0047_0000000000000000"/>
+                  <pb n="46" facs="unknown:006820_0047_0000000000000000"/>
                   <head>
                      <hi>PSALM</hi> XXVIII.</head>
                   <div type="version">
@@ -2526,7 +2526,7 @@
                      <l>Still may they triumph with Success.</l>
                   </div>
                   <div type="version">
-                     <pb n="47" facs="tcp:006820_0048_0000000000000000"/>
+                     <pb n="47" facs="unknown:006820_0048_0000000000000000"/>
                      <head>Common Meetre.</head>
                      <l>
                         <milestone type="tcpmilestone" unit="unspecified" n="9"/> SAve, Lord, thy People, greatly bless</l>
@@ -2580,7 +2580,7 @@
                   <l>
                      <hi>Leb'non,</hi> and <hi>Syrion,</hi> leap.</l>
                   <l>
-                     <pb n="48" facs="tcp:006820_0049_0000000000000000"/>
+                     <pb n="48" facs="unknown:006820_0049_0000000000000000"/>
                      <milestone type="tcpmilestone" unit="unspecified" n="7"/>
                      <hi>Iehovah</hi>'s Voice strikes Flames of Fire;</l>
                   <l>And Light'nings blaze around.</l>
@@ -2630,7 +2630,7 @@
                         <milestone type="tcpmilestone" unit="unspecified" n="7"/> Thy Favour, Lord, confirm'd my State,</l>
                      <l>Thou hid'st, and Comforts dy'd.</l>
                      <l>
-                        <pb n="49" facs="tcp:006820_0050_0000000000000000"/>
+                        <pb n="49" facs="unknown:006820_0050_0000000000000000"/>
                         <milestone type="tcpmilestone" unit="unspecified" n="8"/> Then, Lord, to Thee I cry'd; to Thee</l>
                      <l>My earnest Suit I made.</l>
                      <l>
@@ -2675,7 +2675,7 @@
                         <milestone type="tcpmilestone" unit="unspecified" n="5"/> He Anger but a Moment keeps,</l>
                      <l>His Favour's Life; if Ev'ning weeps,</l>
                      <l>
-                        <pb n="50" facs="tcp:006820_0051_0000000000000000"/>The rising Sun returns with Joy.</l>
+                        <pb n="50" facs="unknown:006820_0051_0000000000000000"/>The rising Sun returns with Joy.</l>
                      <l>
                         <milestone type="tcpmilestone" unit="unspecified" n="6"/> When with Success I prospered,</l>
                      <l>My foolish Heart grew vain, and said,</l>
@@ -2719,7 +2719,7 @@
                   <l>Be my strong Rock, and shelt'ring Tow'r,</l>
                   <l>Where I may safe remain.</l>
                   <l>
-                     <pb n="51" facs="tcp:006820_0052_0000000000000000"/>
+                     <pb n="51" facs="unknown:006820_0052_0000000000000000"/>
                      <milestone type="tcpmilestone" unit="unspecified" n="3"/> For thou my Rock, and Fortress, art;</l>
                   <l>For thy Name's Sake me guide.</l>
                   <l>
@@ -2764,7 +2764,7 @@
                      <l>I was a Terror to my Friends,</l>
                      <l>When I drew near, they fled.</l>
                      <l>
-                        <pb n="52" facs="tcp:006820_0053_0000000000000000"/>
+                        <pb n="52" facs="unknown:006820_0053_0000000000000000"/>
                         <milestone type="tcpmilestone" unit="unspecified" n="12"/> I am forgot, like one that's dead,</l>
                      <l>Whose Name, and Mem'ry's lost;</l>
                      <l>Like earthen Vessels that are broke,</l>
@@ -2809,7 +2809,7 @@
                      <l>And cover'd from the Strife of Tongues,</l>
                      <l>In thy Pavilion hide.</l>
                      <l>
-                        <pb n="53" facs="tcp:006820_0054_0000000000000000"/>
+                        <pb n="53" facs="unknown:006820_0054_0000000000000000"/>
                         <milestone type="tcpmilestone" unit="unspecified" n="21"/> Forever blessed be the Lord,</l>
                      <l>For wondrous Kindness shown;</l>
                      <l>When threat'ning Dangers me enclos'd,</l>
@@ -2856,7 +2856,7 @@
                      <l>Whose pard'ning Mercy soon stept in,</l>
                      <l>And Comfort to my Soul restor'd.</l>
                      <l>
-                        <pb n="54" facs="tcp:006820_0055_0000000000000000"/>
+                        <pb n="54" facs="unknown:006820_0055_0000000000000000"/>
                         <milestone type="tcpmilestone" unit="unspecified" n="6"/> For this each godly Man will pray,</l>
                      <l>In Times wherein thou may'st be found;</l>
                      <l>In mighty Waters raging Floods,</l>
@@ -2907,7 +2907,7 @@
                      <l>Dry'd up my Bones; I roar'd all Day,</l>
                      <l>And found no quiet Rest.</l>
                      <l>
-                        <pb n="55" facs="tcp:006820_0056_0000000000000000"/>
+                        <pb n="55" facs="unknown:006820_0056_0000000000000000"/>
                         <milestone type="tcpmilestone" unit="unspecified" n="4"/> For Day, and Night, thine awful Hand,</l>
                      <l>Heavy upon me beat;</l>
                      <l>My Moisture dry'd, as Ground that's parch'd,</l>
@@ -2953,7 +2953,7 @@
                   </div>
                </div>
                <div n="33" type="Psalm">
-                  <pb n="56" facs="tcp:006820_0057_0000000000000000"/>
+                  <pb n="56" facs="unknown:006820_0057_0000000000000000"/>
                   <head>
                      <hi>PSALM</hi> XXXIII.</head>
                   <l>REjoice ye righteous, in the Lord,</l>
@@ -3009,7 +3009,7 @@
                         <milestone type="tcpmilestone" unit="unspecified" n="15"/> Their Hearts he fashioneth alike;</l>
                      <l>And all their Works he weighs.</l>
                      <l>
-                        <pb n="57" facs="tcp:006820_0058_0000000000000000"/>
+                        <pb n="57" facs="unknown:006820_0058_0000000000000000"/>
                         <milestone type="tcpmilestone" unit="unspecified" n="16"/> No King is sav'd by num'rous Hosts;</l>
                      <l>By Strength the Strong's not freed.</l>
                      <l>
@@ -3081,7 +3081,7 @@
                         <desc>〈◊〉</desc>
                      </gap> to his Arms for Shelter fly.</l>
                   <l>
-                     <pb n="58" facs="tcp:006820_0059_0000000000000000"/>
+                     <pb n="58" facs="unknown:006820_0059_0000000000000000"/>
                      <milestone type="tcpmilestone" unit="unspecified" n="8"/> O try how good <hi>Iehovah</hi> in:</l>
                   <l>They're bless'd who in his Strength confide.</l>
                   <l>
@@ -3140,7 +3140,7 @@
                   </div>
                </div>
                <div n="35" type="Psalm">
-                  <pb n="59" facs="tcp:006820_0060_0000000000000000"/>
+                  <pb n="59" facs="unknown:006820_0060_0000000000000000"/>
                   <head>
                      <hi>PSALM</hi> XXXV.</head>
                   <l>WIth them that strive, and fight with me,</l>
@@ -3191,7 +3191,7 @@
                         <milestone type="tcpmilestone" unit="unspecified" n="12"/> They me reward with Ill, for Good;</l>
                      <l>My very Life pursue.</l>
                      <l>
-                        <pb n="60" facs="tcp:006820_0061_0000000000000000"/>
+                        <pb n="60" facs="unknown:006820_0061_0000000000000000"/>
                         <milestone type="tcpmilestone" unit="unspecified" n="13"/> But I, when they were sick, myself</l>
                      <l>With Sack-cloth did invest;</l>
                      <l>With Fasts I mourned, and my Pray'r</l>
@@ -3235,7 +3235,7 @@
                      <l>Against the quiet in the Land,</l>
                      <l>They craftily devise.</l>
                      <l>
-                        <pb n="61" facs="tcp:006820_0062_0000000000000000"/>
+                        <pb n="61" facs="unknown:006820_0062_0000000000000000"/>
                         <milestone type="tcpmilestone" unit="unspecified" n="21"/> Yea, with Insult, they laugh'd, and said,</l>
                      <l>"Ha, ha, our Eye it saw.</l>
                      <l>
@@ -3284,7 +3284,7 @@
                      <l>Until, at length, he's sadly forc'd</l>
                      <l>To hate the Crimes, he lov'd.</l>
                      <l>
-                        <pb n="62" facs="tcp:006820_0063_0000000000000000"/>
+                        <pb n="62" facs="unknown:006820_0063_0000000000000000"/>
                         <milestone type="tcpmilestone" unit="unspecified" n="3"/> The Words are Mischief, and Deceit,</l>
                      <l>Which from his Mouth proceed;</l>
                      <l>Wisdom is banish'd from his Heart,</l>
@@ -3333,7 +3333,7 @@
                         <l>And let thy Faithfulness extend,</l>
                         <l>To all, upright in Heart.</l>
                         <l>
-                           <pb n="63" facs="tcp:006820_0064_0000000000000000"/>
+                           <pb n="63" facs="unknown:006820_0064_0000000000000000"/>
                            <milestone type="tcpmilestone" unit="unspecified" n="11"/> Let not the Foot of <gap reason="illegible" resp="#PDCC" extent="1 letter">
                               <desc>•</desc>
                            </gap>aughty Foes,</l>
@@ -3398,7 +3398,7 @@
                         <l>From Thee immortal Pleasures rill,</l>
                         <l>Where thou shalt make them drink their fill.</l>
                         <l>
-                           <pb n="64" facs="tcp:006820_0065_0000000000000000"/>
+                           <pb n="64" facs="unknown:006820_0065_0000000000000000"/>
                            <milestone type="tcpmilestone" unit="unspecified" n="9"/> Life's Fountain is alone with Thee;</l>
                         <l>Light, in thy glorious Light, we see.</l>
                         <l>
@@ -3456,7 +3456,7 @@
                   <l>At their Success; who bring to pass,</l>
                   <l>The Mischiefs they devise.</l>
                   <l>
-                     <pb n="65" facs="tcp:006820_0066_0000000000000000"/>
+                     <pb n="65" facs="unknown:006820_0066_0000000000000000"/>
                      <milestone type="tcpmilestone" unit="unspecified" n="8"/> Enkindling Anger quench betimes,</l>
                   <l>Wrath utterly forsake;</l>
                   <l>Lest, Thee, Partaker in their Crimes,</l>
@@ -3510,7 +3510,7 @@
                      <l>Tho' Days of raging Famine come,</l>
                      <l>They shall be satisfied.</l>
                      <l>
-                        <pb n="66" facs="tcp:006820_0067_0000000000000000"/>
+                        <pb n="66" facs="unknown:006820_0067_0000000000000000"/>
                         <milestone type="tcpmilestone" unit="unspecified" n="20"/> But wicked Men shall be cut off,</l>
                      <l>Who dare the Lord provoke;</l>
                      <l>Like Fat of Lambs, they melt away,</l>
@@ -3566,7 +3566,7 @@
                         <milestone type="tcpmilestone" unit="unspecified" n="30"/> His Mouth of sacred Wisdom speaks;</l>
                      <l>Right Things his Tongue declares.</l>
                      <l>
-                        <pb n="67" facs="tcp:006820_0068_0000000000000000"/>
+                        <pb n="67" facs="unknown:006820_0068_0000000000000000"/>
                         <milestone type="tcpmilestone" unit="unspecified" n="31"/> The Law of God is in his Heart;</l>
                      <l>None of his Steps shall stray.</l>
                      <l>
@@ -3615,7 +3615,7 @@
                   </div>
                </div>
                <div n="38" type="Psalm">
-                  <pb n="68" facs="tcp:006820_0069_0000000000000000"/>
+                  <pb n="68" facs="unknown:006820_0069_0000000000000000"/>
                   <head>
                      <hi>PSALM</hi> XXXVIII.</head>
                   <l>O Lord, rebuke me not in Wrath;</l>
@@ -3664,7 +3664,7 @@
                      <l>And they, that sought my Hurt, spread Lies,</l>
                      <l>And fram'd Deceit all Day.</l>
                      <l>
-                        <pb n="69" facs="tcp:006820_0070_0000000000000000"/>
+                        <pb n="69" facs="unknown:006820_0070_0000000000000000"/>
                         <milestone type="tcpmilestone" unit="unspecified" n="13"/> But, as one deaf, I did not hear;</l>
                      <l>As dumb, my Tongue was ty'd:</l>
                      <l>
@@ -3715,7 +3715,7 @@
                      <l>Did inward Pain increase<g ref="char:punc">▪</g>
                      </l>
                      <l>
-                        <pb n="70" facs="tcp:006820_0071_0000000000000000"/>
+                        <pb n="70" facs="unknown:006820_0071_0000000000000000"/>
                         <milestone type="tcpmilestone" unit="unspecified" n="3"/> My Heart, with Indignation, glow'd,</l>
                      <l>While I was musing long;</l>
                      <l>The Fire within more fiercely burnt,</l>
@@ -3763,7 +3763,7 @@
                         <l>For here I sojourn, Stranger-like,</l>
                         <l>As all my Fathers were.</l>
                         <l>
-                           <pb n="71" facs="tcp:006820_0072_0000000000000000"/>
+                           <pb n="71" facs="unknown:006820_0072_0000000000000000"/>
                            <milestone type="tcpmilestone" unit="unspecified" n="13"/> O spare me, Lord, my wasted Strength,</l>
                         <l>In Mercy, now, restore;</l>
                         <l>E'er at thy Summons, I go hence,</l>
@@ -3814,7 +3814,7 @@
                         <l>My Hopes are plac'd on Thee alone,</l>
                         <l>The Source, and Centre, of my Bliss.</l>
                         <l>
-                           <pb n="72" facs="tcp:006820_0073_0000000000000000"/>
+                           <pb n="72" facs="unknown:006820_0073_0000000000000000"/>
                            <milestone type="tcpmilestone" unit="unspecified" n="8"/> From all my Guilt, and Punishment,</l>
                         <l>In Mercy, Lord, my Soul redeem;</l>
                         <l>And make me not the Scorn of Fools,</l>
@@ -3862,7 +3862,7 @@
                   <l>Many shall see, and learn to fear,</l>
                   <l>And on the Lord rely.</l>
                   <l>
-                     <pb n="73" facs="tcp:006820_0074_0000000000000000"/>
+                     <pb n="73" facs="unknown:006820_0074_0000000000000000"/>
                      <milestone type="tcpmilestone" unit="unspecified" n="4"/> That Man is blest, who on the Lord,</l>
                   <l>With Confidence, relies;</l>
                   <l>Who disregards the Proud, and such</l>
@@ -3909,7 +3909,7 @@
                      <l>They blind me, they exceed my Hairs,</l>
                      <l>Therefore my Heart's lay'd wast.</l>
                      <l>
-                        <pb n="74" facs="tcp:006820_0075_0000000000000000"/>
+                        <pb n="74" facs="unknown:006820_0075_0000000000000000"/>
                         <milestone type="tcpmilestone" unit="unspecified" n="13"/> Be pleas'd, O Lord, in this Distress,</l>
                      <l>To come, and set me free;</l>
                      <l>O gracious God, make no Delays,</l>
@@ -3954,7 +3954,7 @@
                   <l>In Sickness, kindly turn his Bed,</l>
                   <l>That he may easy ly.</l>
                   <l>
-                     <pb n="75" facs="tcp:006820_0076_0000000000000000"/>
+                     <pb n="75" facs="unknown:006820_0076_0000000000000000"/>
                      <milestone type="tcpmilestone" unit="unspecified" n="4"/>"O Lord, be merciful to me,</l>
                   <l>(I thus myself expres<gap reason="illegible" resp="#PDCC" extent="1 letter">
                         <desc>•</desc>
@@ -4022,7 +4022,7 @@
                            <desc>〈◊〉</desc>
                         </gap> my Defence.</l>
                      <l>
-                        <pb n="76" facs="tcp:006820_0077_0000000000000000"/>
+                        <pb n="76" facs="unknown:006820_0077_0000000000000000"/>
                         <milestone type="tcpmilestone" unit="unspecified" n="13"/> The Lord, the God of <hi>Isr'el</hi>'s House,</l>
                      <l>Be bless'd by Sons of Men,</l>
                      <l>From Age to Age, till Time's no more.</l>
@@ -4083,7 +4083,7 @@
                      </l>
                      <l>Thy Waves and Billows gone.</l>
                      <l>
-                        <pb n="77" facs="tcp:006820_0078_0000000000000000"/>
+                        <pb n="77" facs="unknown:006820_0078_0000000000000000"/>
                         <milestone type="tcpmilestone" unit="unspecified" n="8"/> Thy Loving-kindness ye<gap reason="illegible" resp="#PDCC" extent="1 letter">
                            <desc>•</desc>
                         </gap>, O Lord,</l>
@@ -4142,7 +4142,7 @@
                         <desc>〈◊〉</desc>
                      </gap> Songs of Praise, my Harp employ.</l>
                   <l>
-                     <pb n="78" facs="tcp:006820_0079_0000000000000000"/>
+                     <pb n="78" facs="unknown:006820_0079_0000000000000000"/>
                      <milestone type="tcpmilestone" unit="unspecified" n="5"/> Why so cast down, my Soul, and why</l>
                   <l>So restless, in thy frail Abode?</l>
                   <l>Trust God, for praise him yet shall I,</l>
@@ -4187,7 +4187,7 @@
                   <l>Forever will we praise thy Name,</l>
                   <l>In our triumphant Song.</l>
                   <div n="2" type="part">
-                     <pb n="79" facs="tcp:006820_0080_0000000000000000"/>
+                     <pb n="79" facs="unknown:006820_0080_0000000000000000"/>
                      <head>Second PART.</head>
                      <l>
                         <milestone type="tcpmilestone" unit="unspecified" n="9"/> But, now, thou hast rejected us,</l>
@@ -4238,7 +4238,7 @@
                      <l>And with the gastly Shades of Death,</l>
                      <l>Thy People cover'd o'er.</l>
                      <l>
-                        <pb n="80" facs="tcp:006820_0081_0000000000000000"/>
+                        <pb n="80" facs="unknown:006820_0081_0000000000000000"/>
                         <milestone type="tcpmilestone" unit="unspecified" n="20"/> Had we, our God's great Name, forgot,</l>
                      <l>Or to strange Gods bow'd down;</l>
                      <l>
@@ -4292,7 +4292,7 @@
                      <l>Strongly assert; and thy Right-hand</l>
                      <l>Shall teach Thee Wonders to express.</l>
                      <l>
-                        <pb n="81" facs="tcp:006820_0082_0000000000000000"/>
+                        <pb n="81" facs="unknown:006820_0082_0000000000000000"/>
                         <milestone type="tcpmilestone" unit="unspecified" n="5"/> Thy pointed Arrows wing their Way.</l>
                      <l>And peirce the stubborn Hearts of those</l>
                      <l>That set themselves against the King;</l>
@@ -4335,7 +4335,7 @@
                         <l>The wealthy Nations, with their Gifts;</l>
                         <l>Thy Royal Favour shall entreat.</l>
                         <l>
-                           <pb n="82" facs="tcp:006820_0083_0000000000000000"/>
+                           <pb n="82" facs="unknown:006820_0083_0000000000000000"/>
                            <milestone type="tcpmilestone" unit="unspecified" n="13"/> The King's fair Daughter's glorious,</l>
                         <l>In all Accomplishments Divine;</l>
                         <l>Her Garments wrought with <hi>Phrygian</hi> Skill,</l>
@@ -4380,7 +4380,7 @@
                      <l>That can with thy Form,</l>
                      <l>So matchless, compare;</l>
                      <l>
-                        <pb n="83" facs="tcp:006820_0084_0000000000000000"/>All heavenly Grace, in</l>
+                        <pb n="83" facs="unknown:006820_0084_0000000000000000"/>All heavenly Grace, in</l>
                      <l>Thy Lips, is pour'd down;</l>
                      <l>Thy God Thee forever</l>
                      <l>Doth blessed declare.</l>
@@ -4421,7 +4421,7 @@
                      <l>From th' Iv'ry Palace,</l>
                      <l>With which they are glad.</l>
                      <l>
-                        <pb n="84" facs="tcp:006820_0085_0000000000000000"/>
+                        <pb n="84" facs="unknown:006820_0085_0000000000000000"/>
                         <milestone type="tcpmilestone" unit="unspecified" n="9"/> For Maidens of Honour,</l>
                      <l>Kings Daughters attend</l>
                      <l>The Queen, at thy Right-hand,</l>
@@ -4467,7 +4467,7 @@
                         <l>A Race, thro' the Earth,</l>
                         <l>Great Princes in Fame.</l>
                         <l>
-                           <pb n="85" facs="tcp:006820_0086_0000000000000000"/>
+                           <pb n="85" facs="unknown:006820_0086_0000000000000000"/>
                            <milestone type="tcpmilestone" unit="unspecified" n="17"/> Thy Name, in this Form,</l>
                         <l>All Ages shall sing;</l>
                         <l>And Nations, forever,</l>
@@ -4514,7 +4514,7 @@
                      <l>The mighty God of <hi>Iacob</hi> is</l>
                      <l>Our Refuge, and our Friend.</l>
                      <l>
-                        <pb n="86" facs="tcp:006820_0087_0000000000000000"/>
+                        <pb n="86" facs="unknown:006820_0087_0000000000000000"/>
                         <milestone type="tcpmilestone" unit="unspecified" n="8"/> Come, see what wondrous Works, the Lord,</l>
                      <l>For us, hath newly wrought!</l>
                      <l>What dreadful Desolations, he,</l>
@@ -4559,7 +4559,7 @@
                      <l>Which glads the Place, where the Most-High</l>
                      <l>Has fix'd his sacred Tent.</l>
                      <l>
-                        <pb n="87" facs="tcp:006820_0088_0000000000000000"/>
+                        <pb n="87" facs="unknown:006820_0088_0000000000000000"/>
                         <milestone type="tcpmilestone" unit="unspecified" n="5"/> The Lord, in <hi>Zion,</hi> dwells,</l>
                      <l>She shall unmov'd abide;</l>
                      <l>In fittest Season, God, for her,</l>
@@ -4610,7 +4610,7 @@
                      <milestone type="tcpmilestone" unit="unspecified" n="2"/> For God, most high, is terrible;</l>
                   <l>O'er all the Earth, he's a great King.</l>
                   <l>
-                     <pb n="88" facs="tcp:006820_0089_0000000000000000"/>
+                     <pb n="88" facs="unknown:006820_0089_0000000000000000"/>
                      <milestone type="tcpmilestone" unit="unspecified" n="3"/> He makes the People to submit;</l>
                   <l>And Nations at our Feet couch down.</l>
                   <l>
@@ -4661,7 +4661,7 @@
                         <milestone type="tcpmilestone" unit="unspecified" n="6"/> As Women in their Trav'ling Hours,</l>
                      <l>There were they seiz'd with Pain and Dread.</l>
                      <l>
-                        <pb n="89" facs="tcp:006820_0090_0000000000000000"/>
+                        <pb n="89" facs="unknown:006820_0090_0000000000000000"/>
                         <milestone type="tcpmilestone" unit="unspecified" n="7"/> So the fierce boist'rous eastern Winds,</l>
                      <l>The Mid-land Sea to Fury wrought;</l>
                      <l>And the proud Fleets, from <hi>Tarshish</hi> Coast,</l>
@@ -4715,7 +4715,7 @@
                      <l>In <hi>Zion,</hi> in that holy Mount,</l>
                      <l>Let high his Fame be rais'd.</l>
                      <l>
-                        <pb n="90" facs="tcp:006820_0091_0000000000000000"/>
+                        <pb n="90" facs="unknown:006820_0091_0000000000000000"/>
                         <milestone type="tcpmilestone" unit="unspecified" n="2"/> Mount <hi>Zion,</hi> Joy of all the <gap reason="illegible" resp="#PDCC" extent="1 word">
                            <desc>〈◊〉</desc>
                         </gap>,</l>
@@ -4766,7 +4766,7 @@
                            <milestone type="tcpmilestone" unit="unspecified" n="12"/> Thro' <hi>Zion</hi> walk, go round her Walls,</l>
                         <l>And all her Towers view;</l>
                         <l>
-                           <pb n="91" facs="tcp:006820_0092_0000000000000000"/>
+                           <pb n="91" facs="unknown:006820_0092_0000000000000000"/>
                            <milestone type="tcpmilestone" unit="unspecified" n="13"/> Mark well her Forts, and Palaces;</l>
                         <l>Nor from your Sons it hide.</l>
                         <l>
@@ -4817,7 +4817,7 @@
                   <l>And all their Wealth, tho' ne'er so loth,</l>
                   <l>To their Successors leave.</l>
                   <div n="2" type="part">
-                     <pb n="92" facs="tcp:006820_0093_0000000000000000"/>
+                     <pb n="92" facs="unknown:006820_0093_0000000000000000"/>
                      <head>Second PART.</head>
                      <l>
                         <milestone type="tcpmilestone" unit="unspecified" n="11"/> Man vainly thinks, his House shall stand,</l>
@@ -4870,7 +4870,7 @@
                      <l>From early'st Rising of the Sun,</l>
                      <l>Unto it's latest Fall.</l>
                      <l>
-                        <pb n="93" facs="tcp:006820_0094_0000000000000000"/>
+                        <pb n="93" facs="unknown:006820_0094_0000000000000000"/>
                         <milestone type="tcpmilestone" unit="unspecified" n="2"/> From <hi>Zion,</hi> famous in Renown,</l>
                      <l>Whose Beauty is compleat;</l>
                      <l>The mighty God hath clearly shin'd,</l>
@@ -4914,7 +4914,7 @@
                            <milestone type="tcpmilestone" unit="unspecified" n="10"/>"The Forrest Beasts are mine, and Herds</l>
                         <l>"On Thousand Hills are kept.</l>
                         <l>
-                           <pb n="94" facs="tcp:006820_0095_0000000000000000"/>
+                           <pb n="94" facs="unknown:006820_0095_0000000000000000"/>
                            <milestone type="tcpmilestone" unit="unspecified" n="11"/>"I know the Mountain Fowl; I claim</l>
                         <l>"The wild Beasts of the Fields.</l>
                         <l>
@@ -4962,7 +4962,7 @@
                         <l>"Lest I in Pieces should your tear,</l>
                         <l>"And there be none to save.</l>
                         <l>
-                           <pb n="95" facs="tcp:006820_0096_0000000000000000"/>
+                           <pb n="95" facs="unknown:006820_0096_0000000000000000"/>
                            <milestone type="tcpmilestone" unit="unspecified" n="23"/>"The Man, that offers hearty Praise,</l>
                         <l>"Best glorifieth me;</l>
                         <l>"And him that ord'reth right his Ways,</l>
@@ -5014,7 +5014,7 @@
                         <l>"No Bullock from thy Stall I'll take,</l>
                         <l>"Nor any He-Goat from thy Fold.</l>
                         <l>
-                           <pb n="96" facs="tcp:006820_0097_0000000000000000"/>
+                           <pb n="96" facs="unknown:006820_0097_0000000000000000"/>
                            <milestone type="tcpmilestone" unit="unspecified" n="10"/>"The Beasts in Forrests more confin'd,</l>
                         <l>"And Herds on thousand Hills combin'd,</l>
                         <l>"They all belong to me of old.</l>
@@ -5060,7 +5060,7 @@
                         <l>
                            <milestone type="tcpmilestone" unit="unspecified" n="21"/>"This thou hast done; and did'st surmise,</l>
                         <l>
-                           <pb n="97" facs="tcp:006820_0098_0000000000000000"/>While silent, I was like to thee;</l>
+                           <pb n="97" facs="unknown:006820_0098_0000000000000000"/>While silent, I was like to thee;</l>
                         <l>"Now thou my sharp Reproof shalt see;</l>
                         <l>"I'll rank thy Sins before thine Eyes.</l>
                         <l>
@@ -5110,7 +5110,7 @@
                      <milestone type="tcpmilestone" unit="unspecified" n="9"/> Hide from my Sins thy Face, O Lord;</l>
                   <l>And all my many Crimes blot out.</l>
                   <div n="2" type="part">
-                     <pb n="98" facs="tcp:006820_0099_0000000000000000"/>
+                     <pb n="98" facs="unknown:006820_0099_0000000000000000"/>
                      <head>Second PART.</head>
                      <l>
                         <milestone type="tcpmilestone" unit="unspecified" n="10"/> Create, O God, in me clean <gap reason="illegible" resp="#PDCC" extent="1 word">
@@ -5167,7 +5167,7 @@
                   <l>Uninterupted daily flows</l>
                   <l>God's Goodness, without Cost.</l>
                   <l>
-                     <pb n="99" facs="tcp:006820_0100_0000000000000000"/>
+                     <pb n="99" facs="unknown:006820_0100_0000000000000000"/>
                      <milestone type="tcpmilestone" unit="unspecified" n="2"/> Thy Tongue, the Malice of thy Heart,</l>
                   <l>In Falshoods, spreads around;</l>
                   <l>Like a keen Ra<gap reason="illegible" resp="#PDCC" extent="1 letter">
@@ -5214,7 +5214,7 @@
                   <l>They scatter loathsome Sin abroad,</l>
                   <l>Among them, that doth Good, there's none.</l>
                   <l>
-                     <pb n="100" facs="tcp:006820_0101_0000000000000000"/>
+                     <pb n="100" facs="unknown:006820_0101_0000000000000000"/>
                      <milestone type="tcpmilestone" unit="unspecified" n="2"/> The Lord look'd down from Heav'n above,</l>
                   <l>On Sons of Men, with strict Survey<g ref="char:punc">▪</g>
                   </l>
@@ -5261,7 +5261,7 @@
                      <milestone type="tcpmilestone" unit="unspecified" n="5"/> My watchful Foes with Ill reward,</l>
                   <l>And all his Threats make good.</l>
                   <l>
-                     <pb n="101" facs="tcp:006820_0102_0000000000000000"/>
+                     <pb n="101" facs="unknown:006820_0102_0000000000000000"/>
                      <milestone type="tcpmilestone" unit="unspecified" n="6"/> So will I Free-will Off'rings bring,</l>
                   <l>And to Thee sacrifice;</l>
                   <l>Thy Name I'll ever praise, O Lord;</l>
@@ -5310,7 +5310,7 @@
                      <l>For Violence, and raging Strife,</l>
                      <l>I've in the City spy'd.</l>
                      <l>
-                        <pb n="102" facs="tcp:006820_0103_0000000000000000"/>
+                        <pb n="102" facs="unknown:006820_0103_0000000000000000"/>
                         <milestone type="tcpmilestone" unit="unspecified" n="10"/> These, Day and Night, upon the Wall<gap reason="illegible" resp="#PDCC" extent="1 letter">
                            <desc>•</desc>
                         </gap>,</l>
@@ -5359,7 +5359,7 @@
                      <l>Because they have no Changes felt,</l>
                      <l>Therefore they fear not God.</l>
                      <l>
-                        <pb n="103" facs="tcp:006820_0104_0000000000000000"/>
+                        <pb n="103" facs="unknown:006820_0104_0000000000000000"/>
                         <milestone type="tcpmilestone" unit="unspecified" n="20"/> Against the Man at Peace with him,</l>
                      <l>His Hands he did extend,</l>
                      <l>In Wrath; and most profanely broke</l>
@@ -5414,7 +5414,7 @@
                   <l>And, my Destruction to contrive,</l>
                   <l>Their Thoughts are wholly bent.</l>
                   <l>
-                     <pb n="104" facs="tcp:006820_0105_0000000000000000"/>
+                     <pb n="104" facs="unknown:006820_0105_0000000000000000"/>
                      <milestone type="tcpmilestone" unit="unspecified" n="6"/> They meet together, and consult,</l>
                   <l>And secretly debate;</l>
                   <l>They strictly all my Actions watch,</l>
@@ -5462,7 +5462,7 @@
                   <l>The God that well for me performs,</l>
                   <l>And will not me deny.</l>
                   <l>
-                     <pb n="105" facs="tcp:006820_0106_0000000000000000"/>
+                     <pb n="105" facs="unknown:006820_0106_0000000000000000"/>
                      <milestone type="tcpmilestone" unit="unspecified" n="3"/> From Heav'n he'll send, and me protect,</l>
                   <l>Shame who would on me prey;</l>
                   <l>God will his Mercy, and his Truth,</l>
@@ -5508,7 +5508,7 @@
                   <l>Or is, ye Sons of earthly Men,</l>
                   <l>Your Judgment just, and fit?</l>
                   <l>
-                     <pb n="106" facs="tcp:006820_0107_0000000000000000"/>
+                     <pb n="106" facs="unknown:006820_0107_0000000000000000"/>
                      <milestone type="tcpmilestone" unit="unspecified" n="2"/> Yea, rather foul, malicious Deeds,</l>
                   <l>Your wicked Heart intends;</l>
                   <l>Thus sway'd, you openly weigh out</l>
@@ -5550,7 +5550,7 @@
                   <l>Who, Victors o'er such wicked Men,</l>
                   <l>Shall wash their Feet in Blood.</l>
                   <l>
-                     <pb n="107" facs="tcp:006820_0108_0000000000000000"/>
+                     <pb n="107" facs="unknown:006820_0108_0000000000000000"/>
                      <milestone type="tcpmilestone" unit="unspecified" n="11"/> Then Men shall say, "sure for the Just,</l>
                   <l>"There is a kind Reward;</l>
                   <l>"Sure, there's a God, who judgeth right,</l>
@@ -5596,7 +5596,7 @@
                      <milestone type="tcpmilestone" unit="unspecified" n="9"/> O thou my Strength, I'll on Thee wait;</l>
                   <l>For God's my Safety's Horn.</l>
                   <div type="part">
-                     <pb n="108" facs="tcp:006820_0109_0000000000000000"/>
+                     <pb n="108" facs="unknown:006820_0109_0000000000000000"/>
                      <head>Second PART.</head>
                      <l>
                         <milestone type="tcpmilestone" unit="unspecified" n="10"/> The God of all my Mercy will,</l>
@@ -5644,7 +5644,7 @@
                   </div>
                </div>
                <div n="60" type="Psalm">
-                  <pb n="109" facs="tcp:006820_0110_0000000000000000"/>
+                  <pb n="109" facs="unknown:006820_0110_0000000000000000"/>
                   <head>
                      <hi>PSALM</hi> LX.</head>
                   <l>THOU hast cast off, and scatter'd us,</l>
@@ -5688,7 +5688,7 @@
                   <l>The proud <hi>Philistian</hi> Lords shall stoop,</l>
                   <l>And to my Triumphs add.</l>
                   <l>
-                     <pb n="110" facs="tcp:006820_0111_0000000000000000"/>
+                     <pb n="110" facs="unknown:006820_0111_0000000000000000"/>
                      <milestone type="tcpmilestone" unit="unspecified" n="9"/> But who shall their strong City take,</l>
                   <l>And bring to our Command?</l>
                   <l>Who shall to Vict'ry lead our Arms,</l>
@@ -5734,7 +5734,7 @@
                   <l>As many Generations still,</l>
                   <l>His future Years maintain.</l>
                   <l>
-                     <pb n="111" facs="tcp:006820_0112_0000000000000000"/>
+                     <pb n="111" facs="unknown:006820_0112_0000000000000000"/>
                      <milestone type="tcpmilestone" unit="unspecified" n="7"/> He shall forever sit,</l>
                   <l>O God, be<gap reason="illegible" resp="#PDCC" extent="1 letter">
                         <desc>•</desc>
@@ -5782,7 +5782,7 @@
                   <l>Pour out your Hearts before his Face:</l>
                   <l>God is our Refuge from our Foes.</l>
                   <l>
-                     <pb n="112" facs="tcp:006820_0113_0000000000000000"/>
+                     <pb n="112" facs="unknown:006820_0113_0000000000000000"/>
                      <milestone type="tcpmilestone" unit="unspecified" n="9"/> The vulgar are but vain, we know,</l>
                   <l>And great Men are Deceit, and Lies;</l>
                   <l>If both you in the Ballance throw,</l>
@@ -5837,7 +5837,7 @@
                         <desc>••</desc>
                      </gap> to spread.</l>
                   <l>
-                     <pb n="113" facs="tcp:006820_0114_0000000000000000"/>
+                     <pb n="113" facs="unknown:006820_0114_0000000000000000"/>
                      <milestone type="tcpmilestone" unit="unspecified" n="6"/> Mean Time, while on my Bed I ly,</l>
                   <l>I will remember Thee;</l>
                   <l>My Thoughts, in Watches of the Night,</l>
@@ -5885,7 +5885,7 @@
                   <l>Their inward Thoughts, which they pursue,</l>
                   <l>And Hearts, ly deeply hid from View.</l>
                   <l>
-                     <pb n="114" facs="tcp:006820_0115_0000000000000000"/>
+                     <pb n="114" facs="unknown:006820_0115_0000000000000000"/>
                      <milestone type="tcpmilestone" unit="unspecified" n="7"/> But God his Vengeance shall let fly,</l>
                   <l>And wound them unexpectedly.</l>
                   <l>
@@ -5930,7 +5930,7 @@
                   <l>Of distant Lands, and farthest Isles,</l>
                   <l>Thou art the Confidence.</l>
                   <l>
-                     <pb n="115" facs="tcp:006820_0116_0000000000000000"/>
+                     <pb n="115" facs="unknown:006820_0116_0000000000000000"/>
                      <milestone type="tcpmilestone" unit="unspecified" n="6"/> The Mountains, by thy mighty <gap reason="illegible" resp="#PDCC" extent="1 word">
                         <desc>〈◊〉</desc>
                      </gap>
@@ -5982,7 +5982,7 @@
                      <milestone type="tcpmilestone" unit="unspecified" n="2"/> Sing forth the Honour of his Name,</l>
                   <l>And glorious make his Praise.</l>
                   <l>
-                     <pb n="116" facs="tcp:006820_0117_0000000000000000"/>
+                     <pb n="116" facs="unknown:006820_0117_0000000000000000"/>
                      <milestone type="tcpmilestone" unit="unspecified" n="3"/> Say unto God, "In thy great Works,</l>
                   <l>"How terrible art thou?</l>
                   <l>"Thy Foes, by thine almighty Pow'r,</l>
@@ -6029,7 +6029,7 @@
                         <milestone type="tcpmilestone" unit="unspecified" n="14"/> Which my Lips utter'd, and Mouth spoke,</l>
                      <l>When Troubles on me lay.</l>
                      <l>
-                        <pb n="117" facs="tcp:006820_0118_0000000000000000"/>
+                        <pb n="117" facs="unknown:006820_0118_0000000000000000"/>
                         <milestone type="tcpmilestone" unit="unspecified" n="15"/> I'll offer Thee burnt Sacrifice,</l>
                      <l>The very best that are;</l>
                      <l>The Fat of Rams, the choicest Bulls,</l>
@@ -6075,7 +6075,7 @@
                   <l>And may the <hi>Gentile</hi> World, in Songs</l>
                   <l>Of Praise, to Thee, combine.</l>
                   <l>
-                     <pb n="118" facs="tcp:006820_0119_0000000000000000"/>
+                     <pb n="118" facs="unknown:006820_0119_0000000000000000"/>
                      <milestone type="tcpmilestone" unit="unspecified" n="4"/> O let the Nations all</l>
                   <l>Be glad, and chearful sing;</l>
                   <l>For thou art, over all the Earth,</l>
@@ -6120,7 +6120,7 @@
                   <l>To Orphans; and a righteous Judge,</l>
                   <l>In him, the Widows find.</l>
                   <l>
-                     <pb n="119" facs="tcp:006820_0120_0000000000000000"/>
+                     <pb n="119" facs="unknown:006820_0120_0000000000000000"/>
                      <milestone type="tcpmilestone" unit="unspecified" n="6"/> God, for the lonely, Houses builds,</l>
                   <l>He breaks the Captives Chain,</l>
                   <l>And sets them free; but Rebels, plagu'd,</l>
@@ -6165,7 +6165,7 @@
                      <l>Shine, as Dove's Wings, with Silver tipt,</l>
                      <l>And Plumes, with yellow Gold.</l>
                      <l>
-                        <pb n="120" facs="tcp:006820_0121_0000000000000000"/>
+                        <pb n="120" facs="unknown:006820_0121_0000000000000000"/>
                         <milestone type="tcpmilestone" unit="unspecified" n="14"/> When there th' Almighty scatter'd Kings,</l>
                      <l>Ye shone as <hi>Salmon</hi>'s Snow.</l>
                      <l>
@@ -6210,7 +6210,7 @@
                      <l>Their Chief, who, in his Trespasses,</l>
                      <l>Still on presumptuous, goes.</l>
                      <l>
-                        <pb n="121" facs="tcp:006820_0122_0000000000000000"/>
+                        <pb n="121" facs="unknown:006820_0122_0000000000000000"/>
                         <milestone type="tcpmilestone" unit="unspecified" n="22"/> God said, "The Conquest I'll repeat</l>
                      <l>"You gain'd o'er <hi>Bashan</hi>'s King;</l>
                      <l>"You, safely, thro' the Depths of Seas,</l>
@@ -6259,7 +6259,7 @@
                      <l>May thither Kings their Presents bring,</l>
                      <l>And worship at thy Feet.</l>
                      <l>
-                        <pb n="122" facs="tcp:006820_0123_0000000000000000"/>
+                        <pb n="122" facs="unknown:006820_0123_0000000000000000"/>
                         <milestone type="tcpmilestone" unit="unspecified" n="30"/> Rebuke the Spear-Men, Bulls, and Calves,</l>
                      <l>Wild Herds of Rage, and Might;</l>
                      <l>'Till with rich Presents, they submit;</l>
@@ -6307,7 +6307,7 @@
                   <l>They're mighty, who, most wrongfully,</l>
                   <l>To shed my Blood would dare:</l>
                   <l>
-                     <pb n="123" facs="tcp:006820_0124_0000000000000000"/>
+                     <pb n="123" facs="unknown:006820_0124_0000000000000000"/>
                      <milestone type="tcpmilestone" unit="unspecified" n="5"/> Then, what I took not, I restor'd,</l>
                   <l>For Peace gave up my Right.</l>
                   <l>O God, thou know'st my Foolishness,</l>
@@ -6352,7 +6352,7 @@
                      <l>From all my Haters rescue me,</l>
                      <l>And from deep Waters save.</l>
                      <l>
-                        <pb n="124" facs="tcp:006820_0125_0000000000000000"/>
+                        <pb n="124" facs="unknown:006820_0125_0000000000000000"/>
                         <milestone type="tcpmilestone" unit="unspecified" n="15"/> Nor Floods to overflow, nor Deeps</l>
                      <l>To swallow me, permit;</l>
                      <l>Nor let the Mouth, upon me close,</l>
@@ -6400,7 +6400,7 @@
                         <milestone type="tcpmilestone" unit="unspecified" n="26"/> They persecute whom thou hast smote;</l>
                      <l>With Words thy wounded grieve.</l>
                      <l>
-                        <pb n="125" facs="tcp:006820_0126_0000000000000000"/>
+                        <pb n="125" facs="unknown:006820_0126_0000000000000000"/>
                         <milestone type="tcpmilestone" unit="unspecified" n="27"/> They Sin to Sin shall add, till they</l>
                      <l>No Part in Mercy claim.</l>
                      <l>
@@ -6452,7 +6452,7 @@
                      <milestone type="tcpmilestone" unit="unspecified" n="2"/> Shame, and Confusion, be their Lot,</l>
                   <l>Who seek my Soul to waste.</l>
                   <l>
-                     <pb n="126" facs="tcp:006820_0127_0000000000000000"/>Defeat, and put to Rout,</l>
+                     <pb n="126" facs="unknown:006820_0127_0000000000000000"/>Defeat, and put to Rout,</l>
                   <l>All that desire my Hurt.</l>
                   <l>
                      <milestone type="tcpmilestone" unit="unspecified" n="3"/> Be Disappointment their Reward,</l>
@@ -6499,7 +6499,7 @@
                      <milestone type="tcpmilestone" unit="unspecified" n="8"/> Let, with thy Praise, my Mouth be fill'd,</l>
                   <l>And Honour all the Day.</l>
                   <div n="2" type="part">
-                     <pb n="127" facs="tcp:006820_0128_0000000000000000"/>
+                     <pb n="127" facs="unknown:006820_0128_0000000000000000"/>
                      <head>Second PART.</head>
                      <l>
                         <milestone type="tcpmilestone" unit="unspecified" n="9"/> Cast me not off, now, in the Time,</l>
@@ -6543,7 +6543,7 @@
                      <l>I'll mention thine alone.</l>
                   </div>
                   <div n="3" type="part">
-                     <pb n="128" facs="tcp:006820_0129_0000000000000000"/>
+                     <pb n="128" facs="unknown:006820_0129_0000000000000000"/>
                      <head>Third PART.</head>
                      <l>
                         <milestone type="tcpmilestone" unit="unspecified" n="17"/> Thou, O my God, hast from my Youth,</l>
@@ -6596,7 +6596,7 @@
                         <desc>•</desc>
                      </gap> Justice done.</l>
                   <l>
-                     <pb n="129" facs="tcp:006820_0130_0000000000000000"/>
+                     <pb n="129" facs="unknown:006820_0130_0000000000000000"/>
                      <milestone type="tcpmilestone" unit="unspecified" n="3"/> Then, from the lofty Mounts, shall flow</l>
                   <l>Sweet Peace, and all thy People bless;</l>
                   <l>The little Hills shall like them grow,</l>
@@ -6643,7 +6643,7 @@
                         <milestone type="tcpmilestone" unit="unspecified" n="13"/> The destitute, in Pity, spare;</l>
                      <l>And save the Souls shall of the Poor</l>
                      <l>
-                        <pb n="130" facs="tcp:006820_0131_0000000000000000"/>
+                        <pb n="130" facs="unknown:006820_0131_0000000000000000"/>
                         <milestone type="tcpmilestone" unit="unspecified" n="14"/> From Fraud, and Violence, he will</l>
                      <l>Redeem their Soul, by his great Might;</l>
                      <l>Their Blood, unjustly sought to spill,</l>
@@ -6692,7 +6692,7 @@
                      <milestone type="tcpmilestone" unit="unspecified" n="4"/> Because their Strength is firm, no Bands,</l>
                   <l>In Death, does on them seise.</l>
                   <l>
-                     <pb n="131" facs="tcp:006820_0132_0000000000000000"/>
+                     <pb n="131" facs="unknown:006820_0132_0000000000000000"/>
                      <milestone type="tcpmilestone" unit="unspecified" n="5"/> With Troubles they are not distress'd;</l>
                   <l>Nor plagu'd like other Men.</l>
                   <l>
@@ -6742,7 +6742,7 @@
                         <milestone type="tcpmilestone" unit="unspecified" n="19"/> How, in a Moment, are they fall'n!</l>
                      <l>With Terrors they're laid waste!</l>
                      <l>
-                        <pb n="132" facs="tcp:006820_0133_0000000000000000"/>
+                        <pb n="132" facs="unknown:006820_0133_0000000000000000"/>
                         <milestone type="tcpmilestone" unit="unspecified" n="20"/> As a vain Dream, when one awakes,</l>
                      <l>Away their Glory flies;</l>
                      <l>So, Lord, when thou do'st rise to judge,</l>
@@ -6792,7 +6792,7 @@
                   <l>And hast redeem'd; this <hi>Sion</hi>'s Mount,</l>
                   <l>Thy famous dwelling Place.</l>
                   <l>
-                     <pb n="133" facs="tcp:006820_0134_0000000000000000"/>
+                     <pb n="133" facs="unknown:006820_0134_0000000000000000"/>
                      <milestone type="tcpmilestone" unit="unspecified" n="3"/> Come, see, and speedily requite,</l>
                   <l>The lasting Ruins wrought;</l>
                   <l>All that thy Foes, with impious Rage,</l>
@@ -6837,7 +6837,7 @@
                         <milestone type="tcpmilestone" unit="unspecified" n="12"/> For God's my Rock of old; who works</l>
                      <l>Salvation thro' the Land.</l>
                      <l>
-                        <pb n="134" facs="tcp:006820_0135_0000000000000000"/>
+                        <pb n="134" facs="unknown:006820_0135_0000000000000000"/>
                         <milestone type="tcpmilestone" unit="unspecified" n="13"/> By thy resistless Strength, thou did'st</l>
                      <l>The raging Sea divide;</l>
                      <l>And crush'd the furious Dragon's Head,</l>
@@ -6883,7 +6883,7 @@
                      <l>But let the Poor, and Needy, still</l>
                      <l>Have Cause to praise thy Name.</l>
                      <l>
-                        <pb n="135" facs="tcp:006820_0136_0000000000000000"/>
+                        <pb n="135" facs="unknown:006820_0136_0000000000000000"/>
                         <milestone type="tcpmilestone" unit="unspecified" n="22"/> Arise, O God, plead thine own Cause;</l>
                      <l>And bear in Memory,</l>
                      <l>With what Contempt, the foolish Man,</l>
@@ -6931,7 +6931,7 @@
                   <l>But th' Impious all shall wring the Dregs,</l>
                   <l>And drink the very Lees.</l>
                   <l>
-                     <pb n="136" facs="tcp:006820_0137_0000000000000000"/>
+                     <pb n="136" facs="unknown:006820_0137_0000000000000000"/>
                      <milestone type="tcpmilestone" unit="unspecified" n="9"/> I'll ever speak, and sing,</l>
                   <l>The God of <hi>Iacob</hi>'s Praise.</l>
                   <l>
@@ -6986,7 +6986,7 @@
                   <l>Dispenseth Terrors, in his Wrath.</l>
                </div>
                <div n="77" type="Psalm">
-                  <pb n="137" facs="tcp:006820_0138_0000000000000000"/>
+                  <pb n="137" facs="unknown:006820_0138_0000000000000000"/>
                   <head>
                      <hi>PSALM</hi> LXXVII.</head>
                   <l>WIth mournful Voice, and ardent Cries,</l>
@@ -7033,7 +7033,7 @@
                      <milestone type="tcpmilestone" unit="unspecified" n="12"/> On all thy Works I'll meditate,</l>
                   <l>Thy Doings shall be told.</l>
                   <div n="2" type="part">
-                     <pb n="138" facs="tcp:006820_0139_0000000000000000"/>
+                     <pb n="138" facs="unknown:006820_0139_0000000000000000"/>
                      <head>Second PART.</head>
                      <l>
                         <milestone type="tcpmilestone" unit="unspecified" n="13"/> Thy Way, O God, is in the Height;</l>
@@ -7085,7 +7085,7 @@
                         <desc>〈…〉</desc>
                      </gap> obedient, list'ning Ear.</l>
                   <l>
-                     <pb n="139" facs="tcp:006820_0140_0000000000000000"/>
+                     <pb n="139" facs="unknown:006820_0140_0000000000000000"/>
                      <milestone type="tcpmilestone" unit="unspecified" n="2"/> My Mouth shall Parables relate;</l>
                   <l>And ancient Mysteries unfold;</l>
                   <l>
@@ -7132,7 +7132,7 @@
                      </gap>t his Works, and Miracles,</l>
                   <l>Which he had wrought before their Eyes.</l>
                   <div n="2" type="part">
-                     <pb n="140" facs="tcp:006820_0141_0000000000000000"/>
+                     <pb n="140" facs="unknown:006820_0141_0000000000000000"/>
                      <head>Second PART.</head>
                      <l>
                         <milestone type="tcpmilestone" unit="unspecified" n="12"/> He Wonders to their Father's shew'd,</l>
@@ -7186,7 +7186,7 @@
                         <milestone type="tcpmilestone" unit="unspecified" n="25"/> Thus Man was fed with Angel's Food!</l>
                      <l>And to the Full he gave them Meat.</l>
                      <l>
-                        <pb n="141" facs="tcp:006820_0142_0000000000000000"/>
+                        <pb n="141" facs="unknown:006820_0142_0000000000000000"/>
                         <milestone type="tcpmilestone" unit="unspecified" n="26"/> In Heav'n he made the East Wind blow,</l>
                      <l>And rais'd the South, by his Command.</l>
                      <l>
@@ -7236,7 +7236,7 @@
                      <l>A Puff of Wind, which flyes away,</l>
                      <l>And never more returns again.</l>
                      <l>
-                        <pb n="142" facs="tcp:006820_0143_0000000000000000"/>
+                        <pb n="142" facs="unknown:006820_0143_0000000000000000"/>
                         <milestone type="tcpmilestone" unit="unspecified" n="40"/> How oft they God provok'd, and griev'd,</l>
                      <l>In Deserts, where his Pow'r was shown?</l>
                      <l>
@@ -7293,7 +7293,7 @@
                      <l>Till to this Mountain they arriv'd,</l>
                      <l>The Purchase of his own Right-hand.</l>
                      <l>
-                        <pb n="143" facs="tcp:006820_0144_0000000000000000"/>
+                        <pb n="143" facs="unknown:006820_0144_0000000000000000"/>
                         <milestone type="tcpmilestone" unit="unspecified" n="55"/> The heathen Tribes, he did expel,</l>
                      <l>Before their Face; to them divide</l>
                      <l>Their Lots by Line; and made the Tribes</l>
@@ -7345,7 +7345,7 @@
                         <milestone type="tcpmilestone" unit="unspecified" n="69"/> There rais'd his Temple up on high;</l>
                      <l>And fix'd it, like the Earth, unmov'd.</l>
                      <l>
-                        <pb n="144" facs="tcp:006820_0145_0000000000000000"/>
+                        <pb n="144" facs="unknown:006820_0145_0000000000000000"/>
                         <milestone type="tcpmilestone" unit="unspecified" n="70"/> He chose his Servant <hi>David,</hi> whom</l>
                      <l>He from the Sheepfold did advance;</l>
                      <l>
@@ -7394,7 +7394,7 @@
                   <l>On impious Kingdoms, which thy Name</l>
                   <l>Ne'er rev'rence, and adore.</l>
                   <l>
-                     <pb n="145" facs="tcp:006820_0146_0000000000000000"/>
+                     <pb n="145" facs="unknown:006820_0146_0000000000000000"/>
                      <milestone type="tcpmilestone" unit="unspecified" n="7"/> For they have greedily devour'd</l>
                   <l>Thy Fav'rite <hi>Iacob</hi>'s Race;</l>
                   <l>Their Rage has utterly laid waste</l>
@@ -7441,7 +7441,7 @@
                   <l>Who dwell'st between the Cherubims,</l>
                   <l>Shine forth in Glory there.</l>
                   <l>
-                     <pb n="146" facs="tcp:006820_0147_0000000000000000"/>
+                     <pb n="146" facs="unknown:006820_0147_0000000000000000"/>
                      <milestone type="tcpmilestone" unit="unspecified" n="2"/> Before <hi>Manasseh, Benjamin,</hi>
                   </l>
                   <l>With <hi>Ephraim,</hi> thy Rearward;</l>
@@ -7487,7 +7487,7 @@
                         <milestone type="tcpmilestone" unit="unspecified" n="11"/> Her Arms stretch'd to the Western Sea,</l>
                      <l>Her Branch <hi>Euphrates</hi> Side.</l>
                      <l>
-                        <pb n="147" facs="tcp:006820_0148_0000000000000000"/>
+                        <pb n="147" facs="unknown:006820_0148_0000000000000000"/>
                         <milestone type="tcpmilestone" unit="unspecified" n="12"/> Oh! why then hast thou broken down</l>
                      <l>Her Hedge, and laid her bare?</l>
                      <l>That all the Passengers that Way,</l>
@@ -7534,7 +7534,7 @@
                   </div>
                </div>
                <div n="81" type="Psalm">
-                  <pb n="148" facs="tcp:006820_0149_0000000000000000"/>
+                  <pb n="148" facs="unknown:006820_0149_0000000000000000"/>
                   <head>
                      <hi>PSALM</hi> LXXXI.</head>
                   <l>WIth raised Voice, to God, our Strength,</l>
@@ -7582,7 +7582,7 @@
                      <l>"Thy Mouth wide open, I'll it fill,</l>
                      <l>"With Plenty, and with Praise.</l>
                      <l>
-                        <pb n="149" facs="tcp:006820_0150_0000000000000000"/>
+                        <pb n="149" facs="unknown:006820_0150_0000000000000000"/>
                         <milestone type="tcpmilestone" unit="unspecified" n="11"/>"But <hi>Isr'el</hi> would not hear my Voice;</l>
                      <l>"Nor me their Choice would make.</l>
                      <l>
@@ -7630,7 +7630,7 @@
                   <l>The Earth's Foundations all are mov'd,</l>
                   <l>And greatly undermin'd.</l>
                   <l>
-                     <pb n="150" facs="tcp:006820_0151_0000000000000000"/>
+                     <pb n="150" facs="unknown:006820_0151_0000000000000000"/>
                      <milestone type="tcpmilestone" unit="unspecified" n="6"/>"I said, Ye're Gods; all of you Sons</l>
                   <l>"Of the Most-High did call.</l>
                   <l>
@@ -7679,7 +7679,7 @@
                   <l>To Thee, by sov'reign Right belongs.</l>
                </div>
                <div n="83" type="Psalm">
-                  <pb n="151" facs="tcp:006820_0152_0000000000000000"/>
+                  <pb n="151" facs="unknown:006820_0152_0000000000000000"/>
                   <head>
                      <hi>PSALM</hi> LXXXIII.</head>
                   <l>O GOD, to our repeated Cries,</l>
@@ -7725,7 +7725,7 @@
                   <l>These prove the strongest Arm of Strength,</l>
                   <l>To <hi>Lot's</hi> apostate House.</l>
                   <div n="2" type="part">
-                     <pb n="152" facs="tcp:006820_0153_0000000000000000"/>
+                     <pb n="152" facs="unknown:006820_0153_0000000000000000"/>
                      <head>Second PART.</head>
                      <l>
                         <milestone type="tcpmilestone" unit="unspecified" n="9"/> But let such Vengeance on them fall,</l>
@@ -7778,7 +7778,7 @@
                      </gap> Earth, art wont to shew</l>
                   <l>The Glories of thy Face?</l>
                   <l>
-                     <pb n="153" facs="tcp:006820_0154_0000000000000000"/>
+                     <pb n="153" facs="unknown:006820_0154_0000000000000000"/>
                      <milestone type="tcpmilestone" unit="unspecified" n="2"/> My Soul doth long, yea, faint to see</l>
                   <l>
                      <hi>Iehovah's</hi> chosen Seat;</l>
@@ -7825,7 +7825,7 @@
                      <l>And, no Good Thing, will he deny,</l>
                      <l>Those who uprightly live.</l>
                      <l>
-                        <pb n="154" facs="tcp:006820_0155_0000000000000000"/>
+                        <pb n="154" facs="unknown:006820_0155_0000000000000000"/>
                         <milestone type="tcpmilestone" unit="unspecified" n="12"/> O thou, the sov'reign Lord of all</l>
                      <l>The Hosts in Heav'n, Earth, Sea;</l>
                      <l>That Man is truly bless'd, who puts</l>
@@ -7879,7 +7879,7 @@
                         <milestone type="tcpmilestone" unit="unspecified" n="11"/> Truth springs from th'Earth, while Righte<g ref="char:EOLhyphen"/>ousness</l>
                      <l>From Heav'n looks down with smiling Face.</l>
                      <l>
-                        <pb n="155" facs="tcp:006820_0156_0000000000000000"/>
+                        <pb n="155" facs="unknown:006820_0156_0000000000000000"/>
                         <milestone type="tcpmilestone" unit="unspecified" n="12"/> Yea, what is Good the Lord will give;</l>
                      <l>Our Land it's yearly Fruits display.</l>
                      <l>
@@ -7931,7 +7931,7 @@
                      <l>Unite, and fix, my wand'ring Heart,</l>
                      <l>Thy sacred Name to fear.</l>
                      <l>
-                        <pb n="156" facs="tcp:006820_0157_0000000000000000"/>
+                        <pb n="156" facs="unknown:006820_0157_0000000000000000"/>
                         <milestone type="tcpmilestone" unit="unspecified" n="12"/> With all my Heart, I'll praise Thee, Lord,</l>
                      <l>Thy Glories ever tell.</l>
                      <l>
@@ -7983,7 +7983,7 @@
                         <hi>Philistia, Tyre,</hi> and <hi>Cush</hi>; lo there</l>
                      <l>Sprang some of great Renown.</l>
                      <l>
-                        <pb n="157" facs="tcp:006820_0158_0000000000000000"/>
+                        <pb n="157" facs="unknown:006820_0158_0000000000000000"/>
                         <milestone type="tcpmilestone" unit="unspecified" n="5"/> But this of <hi>Sion</hi> shall be said,</l>
                      <l>There many such were born;</l>
                      <l>And the Most-High himself shall her</l>
@@ -8037,7 +8037,7 @@
                      <milestone type="tcpmilestone" unit="unspecified" n="2"/> Before Thee, let my Pray'r appear;</l>
                   <l>And to my Cry encline thine Ear.</l>
                   <l>
-                     <pb n="158" facs="tcp:006820_0159_0000000000000000"/>
+                     <pb n="158" facs="unknown:006820_0159_0000000000000000"/>
                      <milestone type="tcpmilestone" unit="unspecified" n="3"/> Troubles, my Soul, so filled have,</l>
                   <l>My Life draws nigh unto the Grave.</l>
                   <l>
@@ -8086,7 +8086,7 @@
                         <milestone type="tcpmilestone" unit="unspecified" n="15"/> Distress'd from Youth, brought nigh the Grave,</l>
                      <l>Thy Terrors me Amazement gave.</l>
                      <l>
-                        <pb n="159" facs="tcp:006820_0160_0000000000000000"/>
+                        <pb n="159" facs="unknown:006820_0160_0000000000000000"/>
                         <milestone type="tcpmilestone" unit="unspecified" n="16"/> Thy fierce Wrath over me hath past;</l>
                      <l>Thy Terrors held, and bound me fast.</l>
                      <l>
@@ -8133,7 +8133,7 @@
                   <l>And awful Rev'rence guards the Minds,</l>
                   <l>That round his Throne appear.</l>
                   <div n="2" type="part">
-                     <pb n="160" facs="tcp:006820_0161_0000000000000000"/>
+                     <pb n="160" facs="unknown:006820_0161_0000000000000000"/>
                      <head>Second PART.</head>
                      <l>
                         <milestone type="tcpmilestone" unit="unspecified" n="8"/> Lord, God of Hosts, who's arm'd with Pow'r,</l>
@@ -8187,7 +8187,7 @@
                         </gap>ty; whom I've rais'd,</l>
                      <l>"And from the People chose.</l>
                      <l>
-                        <pb n="161" facs="tcp:006820_0162_0000000000000000"/>
+                        <pb n="161" facs="unknown:006820_0162_0000000000000000"/>
                         <milestone type="tcpmilestone" unit="unspecified" n="20"/>"I've found my Servant <hi>David</hi>; him</l>
                      <l>"With holy Oil anoint.</l>
                      <l>
@@ -8239,7 +8239,7 @@
                         <milestone type="tcpmilestone" unit="unspecified" n="35"/>"Once, by my Holiness, I've sworn;</l>
                      <l>"I'll not to <hi>David</hi> lye.</l>
                      <l>
-                        <pb n="162" facs="tcp:006820_0163_0000000000000000"/>
+                        <pb n="162" facs="unknown:006820_0163_0000000000000000"/>
                         <milestone type="tcpmilestone" unit="unspecified" n="36"/>"His Race shall never fail; his Throne</l>
                      <l>"Shall, as the Sun, endure:</l>
                      <l>
@@ -8288,7 +8288,7 @@
                      <l>His Soul from his strong griping Hands?</l>
                      <l>Or rescue from the Grave?</l>
                      <l>
-                        <pb n="163" facs="tcp:006820_0164_0000000000000000"/>
+                        <pb n="163" facs="unknown:006820_0164_0000000000000000"/>
                         <milestone type="tcpmilestone" unit="unspecified" n="49"/> Where's Lord, thy former Love, thou didst,</l>
                      <l>In Truth, to <hi>David,</hi> swear?</l>
                      <l>
@@ -8336,7 +8336,7 @@
                   <l>Like Dreams they vanish; in the Morn,</l>
                   <l>As Grass, look fair, and gay:</l>
                   <l>
-                     <pb n="164" facs="tcp:006820_0165_0000000000000000"/>
+                     <pb n="164" facs="unknown:006820_0165_0000000000000000"/>
                      <milestone type="tcpmilestone" unit="unspecified" n="6"/> But howsoe'er it looks, away</l>
                   <l>It's Morning Beauty flies;</l>
                   <l>When Ev'ning comes, 'tis all cut down,</l>
@@ -8381,7 +8381,7 @@
                      <l>As all our former Ones have been,</l>
                      <l>With great Affliction fill'd.</l>
                      <l>
-                        <pb n="165" facs="tcp:006820_0166_0000000000000000"/>
+                        <pb n="165" facs="unknown:006820_0166_0000000000000000"/>
                         <milestone type="tcpmilestone" unit="unspecified" n="16"/> Let this thy special Work of Love,</l>
                      <l>Be to thy Servants shown;</l>
                      <l>The Glory of thy promis'd Grace,</l>
@@ -8428,7 +8428,7 @@
                      <milestone type="tcpmilestone" unit="unspecified" n="8"/> Thine Eyes shall only this behold,</l>
                   <l>And Sinners Portion see.</l>
                   <div n="2" type="part">
-                     <pb n="166" facs="tcp:006820_0167_0000000000000000"/>
+                     <pb n="166" facs="unknown:006820_0167_0000000000000000"/>
                      <head>Second PART.</head>
                      <l>
                         <milestone type="tcpmilestone" unit="unspecified" n="9"/> Because my Refuge, God, Most-high,</l>
@@ -8479,7 +8479,7 @@
                      <l>On sprightly Harp, in one Consent,</l>
                      <l>With sacred Songs, and solemn Sound.</l>
                      <l>
-                        <pb n="167" facs="tcp:006820_0168_0000000000000000"/>
+                        <pb n="167" facs="unknown:006820_0168_0000000000000000"/>
                         <milestone type="tcpmilestone" unit="unspecified" n="4"/>
                         <gap reason="illegible" resp="#PDCC" extent="1 letter">
                            <desc>•</desc>
@@ -8530,7 +8530,7 @@
                      <l>In him there's no Injustice found.</l>
                   </div>
                   <div type="version">
-                     <pb n="168" facs="tcp:006820_0169_0000000000000000"/>
+                     <pb n="168" facs="unknown:006820_0169_0000000000000000"/>
                      <head>
                         <hi>PSALM</hi> XCII. 2<hi>d Meetre.</hi>
                      </head>
@@ -8577,7 +8577,7 @@
                      <l>That on my Spies, and Foes, shall come;</l>
                      <l>And such as Malice bear.</l>
                      <l>
-                        <pb n="169" facs="tcp:006820_0170_0000000000000000"/>
+                        <pb n="169" facs="unknown:006820_0170_0000000000000000"/>
                         <milestone type="tcpmilestone" unit="unspecified" n="12"/> The Just, like Palms, shall thrive,</l>
                      <l>Like <hi>Leb'non</hi>'s Cedars grow:</l>
                      <l>
@@ -8633,7 +8633,7 @@
                      <l>For thou art God,</l>
                      <l>Eternally.</l>
                      <l>
-                        <pb n="170" facs="tcp:006820_0171_0000000000000000"/>
+                        <pb n="170" facs="unknown:006820_0171_0000000000000000"/>
                         <milestone type="tcpmilestone" unit="unspecified" n="3"/> The Floods lift up their Voice,</l>
                      <l>The Sea in Tumult swells:</l>
                      <l>
@@ -8686,7 +8686,7 @@
                      <hi>Iehovah</hi> knows the Tho'ts of Man,</l>
                   <l>That they are very vain.</l>
                   <div n="2" type="part">
-                     <pb n="171" facs="tcp:006820_0172_0000000000000000"/>
+                     <pb n="171" facs="unknown:006820_0172_0000000000000000"/>
                      <head>Second PART.</head>
                      <l>
                         <milestone type="tcpmilestone" unit="unspecified" n="12"/> Blest is the Man! the Lord corrects,</l>
@@ -8744,7 +8744,7 @@
                            <desc>•</desc>
                         </gap>laim.</l>
                      <l>
-                        <pb n="172" facs="tcp:006820_0173_0000000000000000"/>
+                        <pb n="172" facs="unknown:006820_0173_0000000000000000"/>
                         <milestone type="tcpmilestone" unit="unspecified" n="2"/> Let us, with Thanks, approach his Face;</l>
                      <l>And our loud Anthems to him sing.</l>
                      <l>
@@ -8797,7 +8797,7 @@
                            <desc>•</desc>
                         </gap>r all Gods a great King.</l>
                      <l>
-                        <pb n="173" facs="tcp:006820_0174_0000000000000000"/>
+                        <pb n="173" facs="unknown:006820_0174_0000000000000000"/>
                         <milestone type="tcpmilestone" unit="unspecified" n="4"/> The Earth's deep Caverns, lofty Hills,</l>
                      <l>Are in his sov'reign Hand.</l>
                      <l>
@@ -8848,7 +8848,7 @@
                      <milestone type="tcpmilestone" unit="unspecified" n="6"/> Majestick Honours on him wait:</l>
                   <l>Beauty, and Strength, adorn his Seat.</l>
                   <l>
-                     <pb n="174" facs="tcp:006820_0175_0000000000000000"/>
+                     <pb n="174" facs="unknown:006820_0175_0000000000000000"/>
                      <milestone type="tcpmilestone" unit="unspecified" n="7"/> O all ye Kingdoms, ev'ry Tribe,</l>
                   <l>Glory, and Pow'r, to God ascribe.</l>
                   <l>
@@ -8897,7 +8897,7 @@
                      <milestone type="tcpmilestone" unit="unspecified" n="4"/> His Light'nings blaz'd thro'out the World;</l>
                   <l>Earth saw, and trembling stood.</l>
                   <l>
-                     <pb n="175" facs="tcp:006820_0176_0000000000000000"/>
+                     <pb n="175" facs="unknown:006820_0176_0000000000000000"/>
                      <milestone type="tcpmilestone" unit="unspecified" n="5"/> The solid Mountains melt, like Wax,</l>
                   <l>Before <hi>Iehovah</hi>'s Face;</l>
                   <l>Before that Lord, whose sov'reign Rule,</l>
@@ -8945,7 +8945,7 @@
                   <l>He, all the Nations, openly,</l>
                   <l>His Righteousness, hath shown.</l>
                   <l>
-                     <pb n="176" facs="tcp:006820_0177_0000000000000000"/>
+                     <pb n="176" facs="unknown:006820_0177_0000000000000000"/>
                      <milestone type="tcpmilestone" unit="unspecified" n="3"/> His Grace, and Truth, to <hi>Isr'el</hi>'s House,</l>
                   <l>Fully perform'd have been;</l>
                   <l>The utmost Bounds of all the Earth,</l>
@@ -8993,7 +8993,7 @@
                   <l>What's right; in <hi>Iacob,</hi> Justice he,</l>
                   <l>And Equity, maintains.</l>
                   <l>
-                     <pb n="177" facs="tcp:006820_0178_0000000000000000"/>
+                     <pb n="177" facs="unknown:006820_0178_0000000000000000"/>
                      <milestone type="tcpmilestone" unit="unspecified" n="5"/>
                      <hi>Iehovah,</hi> our great God, exalt,</l>
                   <l>And worshiping bow down;</l>
@@ -9042,7 +9042,7 @@
                      <l>Your grateful Songs, in Thanks employ,</l>
                      <l>And ever bless his holy Name.</l>
                      <l>
-                        <pb n="178" facs="tcp:006820_0179_0000000000000000"/>
+                        <pb n="178" facs="unknown:006820_0179_0000000000000000"/>
                         <milestone type="tcpmilestone" unit="unspecified" n="5"/> Because <hi>Iehovah</hi> he is good,</l>
                      <l>His Mercy is forever sure;</l>
                      <l>His Truth, thro' Ages past, has stood,</l>
@@ -9090,7 +9090,7 @@
                   <l>Therefore, O Lord, my thankfull Heart</l>
                   <l>Thy Praise shall ever sing.</l>
                   <l>
-                     <pb n="179" facs="tcp:006820_0180_0000000000000000"/>
+                     <pb n="179" facs="unknown:006820_0180_0000000000000000"/>
                      <milestone type="tcpmilestone" unit="unspecified" n="2"/> I'll wisely act, by perfect Rules,</l>
                   <l>When I the Crown receive;</l>
                   <l>The Pattern of an honest Heart,</l>
@@ -9137,7 +9137,7 @@
                      <milestone type="tcpmilestone" unit="unspecified" n="2"/> Hide not thy Face from me, while I,</l>
                   <l>Daily oppress'd, in Trouble ly:</l>
                   <l>
-                     <pb n="180" facs="tcp:006820_0181_0000000000000000"/>Encline thine Ear to me, with Speed,</l>
+                     <pb n="180" facs="unknown:006820_0181_0000000000000000"/>Encline thine Ear to me, with Speed,</l>
                   <l>And Answer give, in Time of Need.</l>
                   <l>
                      <milestone type="tcpmilestone" unit="unspecified" n="3"/> My Days, like Smoke, consume away;</l>
@@ -9186,7 +9186,7 @@
                         <milestone type="tcpmilestone" unit="unspecified" n="16"/> When God shall <hi>Sion</hi>'s State repair,</l>
                      <l>He'll shine most bright in Glory there.</l>
                      <l>
-                        <pb n="181" facs="tcp:006820_0182_0000000000000000"/>
+                        <pb n="181" facs="unknown:006820_0182_0000000000000000"/>
                         <milestone type="tcpmilestone" unit="unspecified" n="17"/> The Poor's Request he'll then regard,</l>
                      <l>And their Petition shall be heard.</l>
                      <l>
@@ -9240,7 +9240,7 @@
                      <milestone type="tcpmilestone" unit="unspecified" n="2"/> The Lord bless, O my Soul; forget</l>
                   <l>None of his Acts of Grace.</l>
                   <l>
-                     <pb n="182" facs="tcp:006820_0183_0000000000000000"/>
+                     <pb n="182" facs="unknown:006820_0183_0000000000000000"/>
                      <milestone type="tcpmilestone" unit="unspecified" n="3"/>'Tis he doth all thy Sins forgive;</l>
                   <l>And Sicknesses remove.</l>
                   <l>
@@ -9291,7 +9291,7 @@
                         <milestone type="tcpmilestone" unit="unspecified" n="16"/> The Wind sweeps o'er, it disappears;</l>
                      <l>It's Place no more is known.</l>
                      <l>
-                        <pb n="183" facs="tcp:006820_0184_0000000000000000"/>
+                        <pb n="183" facs="unknown:006820_0184_0000000000000000"/>
                         <milestone type="tcpmilestone" unit="unspecified" n="17"/> But, Lord, thy Mercy ever was,</l>
                      <l>And ever will endure,</l>
                      <l>To them that fear Thee; and thy Truth</l>
@@ -9340,7 +9340,7 @@
                   <l>Which from it's Place ne'er shakes.</l>
                   <l>
                      <pb n="184"
-                         facs="tcp:006820_0185_0000000000000000"
+                         facs="unknown:006820_0185_0000000000000000"
                          rendition="simple:additions"/>
                      <milestone type="tcpmilestone" unit="unspecified" n="6"/> Thou, as a Garment, o'er the Earth,</l>
                   <l>Did'st spread the mighty Flood;</l>
@@ -9389,7 +9389,7 @@
                      <l>The Stork makes in the Fir.</l>
                      <l>
                         <pb n="185"
-                            facs="tcp:006820_0186_0000000000000000"
+                            facs="unknown:006820_0186_0000000000000000"
                             rendition="simple:additions"/>
                         <milestone type="tcpmilestone" unit="unspecified" n="18"/> The wild Goats climb the craggy Hills,</l>
                      <l>And these their Refuge make:</l>
@@ -9438,7 +9438,7 @@
                      <l>Thou tak'st away their Breath, they die,</l>
                      <l>And to their Earth return.</l>
                      <l>
-                        <pb n="186" facs="tcp:006820_0187_0000000000000000"/>
+                        <pb n="186" facs="unknown:006820_0187_0000000000000000"/>
                         <milestone type="tcpmilestone" unit="unspecified" n="30"/> Thy quick'ning Spirit thou send'st forth,</l>
                      <l>And a new Life takes Place;</l>
                      <l>The Earth renew'd, with Vigour blooms,</l>
@@ -9490,7 +9490,7 @@
                   <l>Thus ever be the Lord ador'd.</l>
                   <l>
                      <pb n="187"
-                         facs="tcp:006820_0188_0000000000000000"
+                         facs="unknown:006820_0188_0000000000000000"
                          rendition="simple:additions"/>
                      <milestone type="tcpmilestone" unit="unspecified" n="5"/> Remember what great Works he wrought;</l>
                   <l>What Judgments from his Mouth proceed;</l>
@@ -9544,7 +9544,7 @@
                      <l>God's Word, which try'd, and clear'd his Fame.</l>
                      <l>
                         <pb n="188"
-                            facs="tcp:006820_0189_0000000000000000"
+                            facs="unknown:006820_0189_0000000000000000"
                             rendition="simple:additions"/>
                         <milestone type="tcpmilestone" unit="unspecified" n="20"/> The King his royal Edict gave,</l>
                      <l>To set him free from all his Bands.</l>
@@ -9597,7 +9597,7 @@
                      <l>And, thro' their Coasts, their Trees destroy'd.</l>
                      <l>
                         <pb n="189"
-                            facs="tcp:006820_0190_0000000000000000"
+                            facs="unknown:006820_0190_0000000000000000"
                             rendition="simple:additions"/>
                         <milestone type="tcpmilestone" unit="unspecified" n="34"/> Locusts, and various Reptiles came,</l>
                      <l>At his Command; their Swarms abound.</l>
@@ -9654,7 +9654,7 @@
                </div>
                <div n="106" type="Psalm">
                   <pb n="190"
-                      facs="tcp:006820_0191_0000000000000000"
+                      facs="unknown:006820_0191_0000000000000000"
                       rendition="simple:additions"/>
                   <head>
                      <hi>PSALM</hi> CVI.</head>
@@ -9703,7 +9703,7 @@
                   <l>And Praise, in Songs, to him did give.</l>
                   <div n="2" type="part">
                      <pb n="191"
-                         facs="tcp:006820_0192_0000000000000000"
+                         facs="unknown:006820_0192_0000000000000000"
                          rendition="simple:additions"/>
                      <head>Second PART.</head>
                      <l>
@@ -9755,7 +9755,7 @@
                      <l>And scatter them in distant Lands.</l>
                   </div>
                   <div n="3" type="part">
-                     <pb n="192" facs="tcp:006820_0193_0000000000000000"/>
+                     <pb n="192" facs="unknown:006820_0193_0000000000000000"/>
                      <head>Third PART.</head>
                      <l>
                         <milestone type="tcpmilestone" unit="unspecified" n="28"/> Yea, they to <hi>Baal-Peor·</hi> joyn'd;</l>
@@ -9810,7 +9810,7 @@
                      <l>That those who, his Inheritance,</l>
                      <l>Before had been, he now abhor'd.</l>
                      <l>
-                        <pb n="193" facs="tcp:006820_0194_0000000000000000"/>
+                        <pb n="193" facs="unknown:006820_0194_0000000000000000"/>
                         <milestone type="tcpmilestone" unit="unspecified" n="41"/> He gave them up to heathen Pow'rs;</l>
                      <l>Their Haters rul'd with Rods of Steel.</l>
                      <l>
@@ -9862,7 +9862,7 @@
                      <milestone type="tcpmilestone" unit="unspecified" n="4"/> They strol'd thro' Desert's untrod Ways;</l>
                   <l>And found no Place of Rest.</l>
                   <l>
-                     <pb n="194" facs="tcp:006820_0195_0000000000000000"/>
+                     <pb n="194" facs="unknown:006820_0195_0000000000000000"/>
                      <milestone type="tcpmilestone" unit="unspecified" n="5"/> Hunger, and Thirst, their fainting Souls</l>
                   <l>Did grievously oppress.</l>
                   <l>
@@ -9910,7 +9910,7 @@
                      <l>For he, among the Sons of Men,</l>
                      <l>Works wonderful hath done.</l>
                      <l>
-                        <pb n="195" facs="tcp:006820_0196_0000000000000000"/>
+                        <pb n="195" facs="unknown:006820_0196_0000000000000000"/>
                         <milestone type="tcpmilestone" unit="unspecified" n="16"/> For by his Strength, the Gates of Brass</l>
                      <l>Are into Pieces broke;</l>
                      <l>The massy Bars of Iron are cut,</l>
@@ -9960,7 +9960,7 @@
                         <milestone type="tcpmilestone" unit="unspecified" n="26"/> To Heav'n they climb, then sink in Gulphs;</l>
                      <l>Their Soul dissolves with Fear.</l>
                      <l>
-                        <pb n="196" facs="tcp:006820_0197_0000000000000000"/>
+                        <pb n="196" facs="unknown:006820_0197_0000000000000000"/>
                         <milestone type="tcpmilestone" unit="unspecified" n="27"/> They reel, and stagger, Drunkard like<g ref="char:punc">▪</g>
                      </l>
                      <l>Terrors their Minds oppress.</l>
@@ -10010,7 +10010,7 @@
                      <l>By foreign, and domestick Ills,</l>
                      <l>Oppress'd, and fill'd with Pain.</l>
                      <l>
-                        <pb n="197" facs="tcp:006820_0198_0000000000000000"/>
+                        <pb n="197" facs="unknown:006820_0198_0000000000000000"/>
                         <milestone type="tcpmilestone" unit="unspecified" n="40"/> On Princes, who provoke his Wrath,</l>
                      <l>He pours Contempt, and Scorn;</l>
                      <l>He makes them traverse trackless Wastes,</l>
@@ -10058,7 +10058,7 @@
                   <l>Fair <hi>Shechem</hi>'s Soil, I will divide,</l>
                   <l>And meet out <hi>Succoth</hi>'s Vale.</l>
                   <l>
-                     <pb n="198" facs="tcp:006820_0199_0000000000000000"/>
+                     <pb n="198" facs="unknown:006820_0199_0000000000000000"/>
                      <milestone type="tcpmilestone" unit="unspecified" n="8"/>
                      <hi>Gilead</hi> is on my Side<g ref="char:punc">▪</g>
                   </l>
@@ -10118,7 +10118,7 @@
                         <desc>〈◊〉</desc>
                      </gap> Adversary stand.</l>
                   <l>
-                     <pb n="199" facs="tcp:006820_0200_0000000000000000"/>
+                     <pb n="199" facs="unknown:006820_0200_0000000000000000"/>
                      <milestone type="tcpmilestone" unit="unspecified" n="7"/> When judg'd, he shall be guilty found,</l>
                   <l>His very Pray'r displease.</l>
                   <l>
@@ -10165,7 +10165,7 @@
                      <l>Thro' all his Bowels; and in his Bones,</l>
                      <l>Like piercing Oil, shall go.</l>
                      <l>
-                        <pb n="200" facs="tcp:006820_0201_0000000000000000"/>
+                        <pb n="200" facs="unknown:006820_0201_0000000000000000"/>
                         <milestone type="tcpmilestone" unit="unspecified" n="19"/> As Garments, it shall cover him;</l>
                      <l>As Girdles him controul.</l>
                      <l>
@@ -10213,7 +10213,7 @@
                      <l>My grateful Thanks I'll to him sing,</l>
                      <l>Among the Multitude.</l>
                      <l>
-                        <pb n="201" facs="tcp:006820_0202_0000000000000000"/>
+                        <pb n="201" facs="unknown:006820_0202_0000000000000000"/>
                         <milestone type="tcpmilestone" unit="unspecified" n="31"/> Because the Lord, at their Right-hand,</l>
                      <l>Will stand, to help the Poor;</l>
                      <l>To save him from th' unrighteous Judge,</l>
@@ -10264,7 +10264,7 @@
                   <l>To endless Glories raise his Head.</l>
                </div>
                <div n="111" type="Psalm">
-                  <pb n="202" facs="tcp:006820_0203_0000000000000000"/>
+                  <pb n="202" facs="unknown:006820_0203_0000000000000000"/>
                   <head>
                      <hi>PSALM</hi> CXI.</head>
                   <l>PRaise ye the Lord, with my whole Heart,</l>
@@ -10317,7 +10317,7 @@
                         <milestone type="tcpmilestone" unit="unspecified" n="2"/> His Seed, on Earth, shall mighty be;</l>
                      <l>Bless'd shall the Race be of th' Upright.</l>
                      <l>
-                        <pb n="203" facs="tcp:006820_0204_0000000000000000"/>
+                        <pb n="203" facs="unknown:006820_0204_0000000000000000"/>
                         <milestone type="tcpmilestone" unit="unspecified" n="3"/> His House, with Plenty, shall abound;</l>
                      <l>His Justice no Decays shall find.</l>
                      <l>
@@ -10366,7 +10366,7 @@
                         <milestone type="tcpmilestone" unit="unspecified" n="4"/> The Light shall on him shine,</l>
                      <l>When Darkness most prevails.</l>
                      <l>
-                        <pb n="204" facs="tcp:006820_0205_0000000000000000"/>His gentle Mind</l>
+                        <pb n="204" facs="unknown:006820_0205_0000000000000000"/>His gentle Mind</l>
                      <l>The Poor's Grief feels,</l>
                      <l>He justly deals</l>
                      <l>With all Mankind.</l>
@@ -10410,7 +10410,7 @@
                      <l>Your joyful <hi>Hallelujah</hi>'s sing,</l>
                      <l>With Praise his glorious Name confess.</l>
                      <l>
-                        <pb n="205" facs="tcp:006820_0206_0000000000000000"/>
+                        <pb n="205" facs="unknown:006820_0206_0000000000000000"/>
                         <milestone type="tcpmilestone" unit="unspecified" n="2"/> Now raise your Hearts, as heretofore,</l>
                      <l>Till Time itself shall be no more<g ref="char:punc">▪</g>
                      </l>
@@ -10466,7 +10466,7 @@
                         <milestone type="tcpmilestone" unit="unspecified" n="6"/> He condescends, on Things in Heav'n,</l>
                      <l>And Earth, to cast his Eye.</l>
                      <l>
-                        <pb n="206" facs="tcp:006820_0207_0000000000000000"/>
+                        <pb n="206" facs="unknown:006820_0207_0000000000000000"/>
                         <milestone type="tcpmilestone" unit="unspecified" n="7"/> The Poor he raiseth from the Dust.</l>
                      <l>From Dunghills Needy brings:</l>
                      <l>
@@ -10521,7 +10521,7 @@
                   <l>Fountains of Waters can afford.</l>
                </div>
                <div n="115" type="Psalm">
-                  <pb n="207" facs="tcp:006820_0208_0000000000000000"/>
+                  <pb n="207" facs="unknown:006820_0208_0000000000000000"/>
                   <head>
                      <hi>PSALM</hi> CXV.</head>
                   <l>NOT unto us, Lord; not to us,</l>
@@ -10573,7 +10573,7 @@
                      <l>He <hi>Isr'el</hi>'s Tribes, and <hi>A'ron</hi>'s House,</l>
                      <l>Assuredly will bless.</l>
                      <l>
-                        <pb n="208" facs="tcp:006820_0209_0000000000000000"/>
+                        <pb n="208" facs="unknown:006820_0209_0000000000000000"/>
                         <milestone type="tcpmilestone" unit="unspecified" n="13"/> To all that fear him, small, and great,</l>
                      <l>He'll manifest his Grace.</l>
                      <l>
@@ -10624,7 +10624,7 @@
                      <milestone type="tcpmilestone" unit="unspecified" n="8"/> For thou hast from the Snares of Death,</l>
                   <l>My trembling Soul set free;</l>
                   <l>
-                     <pb n="209" facs="tcp:006820_0210_0000000000000000"/>My Feet from Falls, thou hast preserv'd,</l>
+                     <pb n="209" facs="unknown:006820_0210_0000000000000000"/>My Feet from Falls, thou hast preserv'd,</l>
                   <l>And wip'd mine Eyes from Tears.</l>
                   <l>
                      <milestone type="tcpmilestone" unit="unspecified" n="9"/> I'll walk before <hi>Iehovah</hi>'s Face,</l>
@@ -10677,7 +10677,7 @@
                      <l>Let ev'ry Tribe, and ev'ry Tongue,</l>
                      <l>In Hymns of Praises, join.</l>
                      <l>
-                        <pb n="210" facs="tcp:006820_0211_0000000000000000"/>
+                        <pb n="210" facs="unknown:006820_0211_0000000000000000"/>
                         <milestone type="tcpmilestone" unit="unspecified" n="2"/> Because his Grace to us abounds,</l>
                      <l>And runs forever free;</l>
                      <l>
@@ -10735,7 +10735,7 @@
                      <milestone type="tcpmilestone" unit="unspecified" n="6"/> The Lord's with me, and I'll not fear,</l>
                   <l>What Man can do to me.</l>
                   <l>
-                     <pb n="211" facs="tcp:006820_0212_0000000000000000"/>
+                     <pb n="211" facs="unknown:006820_0212_0000000000000000"/>
                      <milestone type="tcpmilestone" unit="unspecified" n="7"/>
                      <gap reason="illegible" resp="#PDCC" extent="1 span">
                         <desc>〈…〉</desc>
@@ -10790,7 +10790,7 @@
                      <l>That I may sing <hi>Iehovah</hi>'s Praise,</l>
                      <l>Who hath my Saviour been.</l>
                      <l>
-                        <pb n="212" facs="tcp:006820_0213_0000000000000000"/>
+                        <pb n="212" facs="unknown:006820_0213_0000000000000000"/>
                         <milestone type="tcpmilestone" unit="unspecified" n="20"/> This Gate's the Lord's<g ref="char:punc">▪</g> whither the Just</l>
                      <l>Shall enter, on set Days.</l>
                      <l>
@@ -10841,7 +10841,7 @@
                      <milestone type="tcpmilestone" unit="unspecified" n="4"/> Thou hast commanded us to keep</l>
                   <l>Thy Precepts, with our utmost Care.</l>
                   <l>
-                     <pb n="213" facs="tcp:006820_0214_0000000000000000"/>
+                     <pb n="213" facs="unknown:006820_0214_0000000000000000"/>
                      <milestone type="tcpmilestone" unit="unspecified" n="5"/> Oh! that to keep thy Statutes, Lord,</l>
                   <l>Thou all my Ways would'st well direct!</l>
                   <l>
@@ -10898,7 +10898,7 @@
                         <milestone type="tcpmilestone" unit="unspecified" n="20"/> My Soul doth faint, with strong Desire,</l>
                      <l>Still with thy Judgments to agree.</l>
                      <l>
-                        <pb n="214" facs="tcp:006820_0215_0000000000000000"/>
+                        <pb n="214" facs="unknown:006820_0215_0000000000000000"/>
                         <milestone type="tcpmilestone" unit="unspecified" n="21"/> The Proud thou hast rebuk'd; they're curs'd,</l>
                      <l>Who from thy Precepts boldly swerv'd.</l>
                      <l>
@@ -10956,7 +10956,7 @@
                         <milestone type="tcpmilestone" unit="unspecified" n="36"/> My Heart unto thy just Records;</l>
                      <l>And not to Avarice encline.</l>
                      <l>
-                        <pb n="215" facs="tcp:006820_0216_0000000000000000"/>
+                        <pb n="215" facs="unknown:006820_0216_0000000000000000"/>
                         <milestone type="tcpmilestone" unit="unspecified" n="37"/> From all vain Objects turn mine Eyes;</l>
                      <l>Me in thy Way revive, and chear.</l>
                      <l>
@@ -11014,7 +11014,7 @@
                         <milestone type="tcpmilestone" unit="unspecified" n="52"/> Thy ancient Judgments I recall;</l>
                      <l>O Lord; and solid Comfort find.</l>
                      <l>
-                        <pb n="216" facs="tcp:006820_0217_0000000000000000"/>
+                        <pb n="216" facs="unknown:006820_0217_0000000000000000"/>
                         <milestone type="tcpmilestone" unit="unspecified" n="53"/> I'm struck with Horror, to behold,</l>
                      <l>How impious Men thy Law forsake.</l>
                      <l>
@@ -11071,7 +11071,7 @@
                         <milestone type="tcpmilestone" unit="unspecified" n="68"/> Thou, Lord, art good, and good thou do'st;</l>
                      <l>Thy Statutes make me to discern.</l>
                      <l>
-                        <pb n="217" facs="tcp:006820_0218_0000000000000000"/>
+                        <pb n="217" facs="unknown:006820_0218_0000000000000000"/>
                         <milestone type="tcpmilestone" unit="unspecified" n="69"/> The Proud have Lies against me forg'd;</l>
                      <l>Thy Law I've kept with my Heart's might,</l>
                      <l>
@@ -11128,7 +11128,7 @@
                         <milestone type="tcpmilestone" unit="unspecified" n="84"/> What are my Days? when wilt thou judge,</l>
                      <l>Those that in Malice me beset.</l>
                      <l>
-                        <pb n="218" facs="tcp:006820_0219_0000000000000000"/>
+                        <pb n="218" facs="unknown:006820_0219_0000000000000000"/>
                         <milestone type="tcpmilestone" unit="unspecified" n="85"/> The Proud for me have digged Pits<g ref="char:punc">▪</g>
                      </l>
                      <l>Who with thy Law do not agree.</l>
@@ -11186,7 +11186,7 @@
                         <milestone type="tcpmilestone" unit="unspecified" n="100"/> Than ancient Sages more I see;</l>
                      <l>Because thy Precepts I obey'd.</l>
                      <l>
-                        <pb n="219" facs="tcp:006820_0220_0000000000000000"/>
+                        <pb n="219" facs="unknown:006820_0220_0000000000000000"/>
                         <milestone type="tcpmilestone" unit="unspecified" n="101"/> From all ill Paths I have refrain'd</l>
                      <l>My Feet; that I might keep thy Word.</l>
                      <l>
@@ -11243,7 +11243,7 @@
                         <milestone type="tcpmilestone" unit="unspecified" n="116"/> As thou hast said, support my Life;</l>
                      <l>Let not my Hope be turn'd to Shame.</l>
                      <l>
-                        <pb n="220" facs="tcp:006820_0221_0000000000000000"/>
+                        <pb n="220" facs="unknown:006820_0221_0000000000000000"/>
                         <milestone type="tcpmilestone" unit="unspecified" n="117"/> Uphold me, then I shall be safe;</l>
                      <l>I'll to thy Laws still turn mine Eyes.</l>
                      <l>
@@ -11300,7 +11300,7 @@
                         <milestone type="tcpmilestone" unit="unspecified" n="132"/> Behold, and pity me, as thou</l>
                      <l>Art wont to them that love thy Name.</l>
                      <l>
-                        <pb n="221" facs="tcp:006820_0222_0000000000000000"/>
+                        <pb n="221" facs="unknown:006820_0222_0000000000000000"/>
                         <milestone type="tcpmilestone" unit="unspecified" n="133"/> Direct my Walk in thy pure Word;</l>
                      <l>And let no Sin, in me, bear Sway.</l>
                      <l>
@@ -11357,7 +11357,7 @@
                         <milestone type="tcpmilestone" unit="unspecified" n="148"/> Mine Eyes prevent the Watch that I,</l>
                      <l>May meditate upon thy Word.</l>
                      <l>
-                        <pb n="222" facs="tcp:006820_0223_0000000000000000"/>
+                        <pb n="222" facs="unknown:006820_0223_0000000000000000"/>
                         <milestone type="tcpmilestone" unit="unspecified" n="149"/> My Voice, in Loving-kindness, hear;</l>
                      <l>Lord, in thy Word revive my Heart.</l>
                      <l>
@@ -11414,7 +11414,7 @@
                         <milestone type="tcpmilestone" unit="unspecified" n="164"/> Sev'n Times a Day I Thee will praise;</l>
                      <l>Because thy Judgments righteous prove.</l>
                      <l>
-                        <pb n="223" facs="tcp:006820_0224_0000000000000000"/>
+                        <pb n="223" facs="unknown:006820_0224_0000000000000000"/>
                         <milestone type="tcpmilestone" unit="unspecified" n="165"/> Great Peace have they that love thy Law;</l>
                      <l>No stumbling Stone shall them offend.</l>
                      <l>
@@ -11472,7 +11472,7 @@
                   <l>And Coals of <hi>Iuniper.</hi>
                   </l>
                   <l>
-                     <pb n="224" facs="tcp:006820_0225_0000000000000000"/>
+                     <pb n="224" facs="unknown:006820_0225_0000000000000000"/>
                      <milestone type="tcpmilestone" unit="unspecified" n="5"/> Wo's me<g ref="char:punc">▪</g> I am a Sojourner,</l>
                   <l>In <hi>Meshech</hi>'s barren Plain;</l>
                   <l>And yet, among the lawless Tents</l>
@@ -11529,7 +11529,7 @@
                         <milestone type="tcpmilestone" unit="unspecified" n="4"/> Thither the Tribes devoutly throng;</l>
                      <l>The Tribes which to the Lord belong.</l>
                      <l>
-                        <pb n="225" facs="tcp:006820_0226_0000000000000000"/>To <hi>Isr'el</hi>'s Witness we repair,</l>
+                        <pb n="225" facs="unknown:006820_0226_0000000000000000"/>To <hi>Isr'el</hi>'s Witness we repair,</l>
                      <l>To honour God, with Praise, and Pray'r.</l>
                      <l>
                         <milestone type="tcpmilestone" unit="unspecified" n="5"/> The Seats of Justice there have Place;</l>
@@ -11580,7 +11580,7 @@
                         <milestone type="tcpmilestone" unit="unspecified" n="8"/> For Friends, and Brethren's Sake,</l>
                      <l>Whose Good my own I make,</l>
                      <l>
-                        <pb n="226" facs="tcp:006820_0227_0000000000000000"/>Thy Peace shall be my constant Pray'r.</l>
+                        <pb n="226" facs="unknown:006820_0227_0000000000000000"/>Thy Peace shall be my constant Pray'r.</l>
                      <l>
                         <milestone type="tcpmilestone" unit="unspecified" n="9"/> Because the Lord, our God,</l>
                      <l>His House makes his Abode,</l>
@@ -11632,7 +11632,7 @@
                      <milestone type="tcpmilestone" unit="unspecified" n="6"/> Bless'd be the Lord; who gave us not,</l>
                   <l>To their sharp Teeth, a Prey.</l>
                   <l>
-                     <pb n="227" facs="tcp:006820_0228_0000000000000000"/>
+                     <pb n="227" facs="unknown:006820_0228_0000000000000000"/>
                      <milestone type="tcpmilestone" unit="unspecified" n="7"/> Our Soul's escap'd the broken Snare,</l>
                   <l>As Birds, from Fowler's, fled.</l>
                   <l>
@@ -11683,7 +11683,7 @@
                   <l>The Heathen said, the Lord, for them,</l>
                   <l>Great Things hath brought about.</l>
                   <l>
-                     <pb n="228" facs="tcp:006820_0229_0000000000000000"/>
+                     <pb n="228" facs="unknown:006820_0229_0000000000000000"/>
                      <milestone type="tcpmilestone" unit="unspecified" n="3"/> With Joy, we own, great Things, for us,</l>
                   <l>Are wrought, Lord, by thy Hand.</l>
                   <l>
@@ -11736,7 +11736,7 @@
                   <l>Thy Children, round thy Table set,</l>
                   <l>Like Olive Plants shall show.</l>
                   <l>
-                     <pb n="229" facs="tcp:006820_0230_0000000000000000"/>
+                     <pb n="229" facs="unknown:006820_0230_0000000000000000"/>
                      <milestone type="tcpmilestone" unit="unspecified" n="4"/>
                      <gap reason="illegible" resp="#PDCC" extent="1 span">
                         <desc>〈…〉</desc>
@@ -11797,7 +11797,7 @@
                      <milestone type="tcpmilestone" unit="unspecified" n="4"/> But there Forgiveness is with Thee,</l>
                   <l>That thou may'st be our Fear.</l>
                   <l>
-                     <pb n="230" facs="tcp:006820_0231_0000000000000000"/>
+                     <pb n="230" facs="unknown:006820_0231_0000000000000000"/>
                      <milestone type="tcpmilestone" unit="unspecified" n="5"/> My Soul doth for <hi>Iehovah</hi> wait;</l>
                   <l>And I hope in his Word.</l>
                   <l>
@@ -11848,7 +11848,7 @@
                   <l>Which shall the future Dwelling be,</l>
                   <l>Of the great God of <hi>Iacob</hi>'s Race.</l>
                   <l>
-                     <pb n="231" facs="tcp:006820_0232_0000000000000000"/>
+                     <pb n="231" facs="unknown:006820_0232_0000000000000000"/>
                      <milestone type="tcpmilestone" unit="unspecified" n="6"/> Behold, we heard it's spreading Fame,</l>
                   <l>At <hi>Ephrata</hi>; but now have found</l>
                   <l>The chosen Spot, for it's Abode,</l>
@@ -11898,7 +11898,7 @@
                   </div>
                </div>
                <div n="133" type="Psalm">
-                  <pb n="232" facs="tcp:006820_0233_0000000000000000"/>
+                  <pb n="232" facs="unknown:006820_0233_0000000000000000"/>
                   <div type="version">
                      <head>
                         <hi>PSALM</hi> CXXXIII.</head>
@@ -11944,7 +11944,7 @@
                      <l>Or rowl down <hi>Sion</hi>'s Mount,</l>
                      <l>Revive the Plains below:</l>
                      <l>
-                        <pb n="233" facs="tcp:006820_0234_0000000000000000"/>
+                        <pb n="233" facs="unknown:006820_0234_0000000000000000"/>
                         <hi>Iehovah</hi> there</l>
                      <l>His Bliss ordains,</l>
                      <l>With Life that reigns</l>
@@ -12000,7 +12000,7 @@
                         <desc>〈◊〉</desc>
                      </gap>.</l>
                   <div n="2" type="part">
-                     <pb n="234" facs="tcp:006820_0235_0000000000000000"/>
+                     <pb n="234" facs="unknown:006820_0235_0000000000000000"/>
                      <head>Second PART.</head>
                      <l>
                         <milestone type="tcpmilestone" unit="unspecified" n="8"/>
@@ -12051,7 +12051,7 @@
                      <l>Who put their Trust in them for Help,</l>
                      <l>As sensless are as they.</l>
                      <l>
-                        <pb n="235" facs="tcp:006820_0236_0000000000000000"/>
+                        <pb n="235" facs="unknown:006820_0236_0000000000000000"/>
                         <milestone type="tcpmilestone" unit="unspecified" n="19"/> O House of <hi>Isr'el,</hi> bless the Lord;</l>
                      <l>O <hi>A'ron</hi>'s, praise his Name.</l>
                      <l>
@@ -12106,7 +12106,7 @@
                      <milestone type="tcpmilestone" unit="unspecified" n="12"/> With stretch'd out Arm, and mighty Hand;</l>
                   <l>His Mercy's ever sure.</l>
                   <div n="2" type="part">
-                     <pb n="236" facs="tcp:006820_0237_0000000000000000"/>
+                     <pb n="236" facs="unknown:006820_0237_0000000000000000"/>
                      <head>Second PART.</head>
                      <l>
                         <milestone type="tcpmilestone" unit="unspecified" n="13"/> The Red Sea he asunder clave;</l>
@@ -12161,7 +12161,7 @@
                   <l>While <hi>Sion</hi>'s melancholly Themes,</l>
                   <l>Our mournful Mind recalls.</l>
                   <l>
-                     <pb n="237" facs="tcp:006820_0238_0000000000000000"/>
+                     <pb n="237" facs="unknown:006820_0238_0000000000000000"/>
                      <milestone type="tcpmilestone" unit="unspecified" n="2"/> Our Harps, which us'd their Part to bear,</l>
                   <l>When <hi>Sion</hi>'s Songs we sung,</l>
                   <l>On Willow-Trees, that flourish'd there,</l>
@@ -12208,7 +12208,7 @@
                   <l>And openly, before the Gods,</l>
                   <l>Thy Praise, my God, I'll sing.</l>
                   <l>
-                     <pb n="238" facs="tcp:006820_0239_0000000000000000"/>
+                     <pb n="238" facs="unknown:006820_0239_0000000000000000"/>
                      <milestone type="tcpmilestone" unit="unspecified" n="2"/> Towards thy holy House I'll bow,</l>
                   <l>Thy Grace, and Truth, proclaim;</l>
                   <l>For over all, thou by thy Word,</l>
@@ -12255,7 +12255,7 @@
                      <milestone type="tcpmilestone" unit="unspecified" n="4"/> There's not a Word couch'd in my Tongue,</l>
                   <l>But, Lord, thine Eye surveys.</l>
                   <l>
-                     <pb n="239" facs="tcp:006820_0240_0000000000000000"/>
+                     <pb n="239" facs="unknown:006820_0240_0000000000000000"/>
                      <milestone type="tcpmilestone" unit="unspecified" n="5"/> Behind, before, thou hast beset,</l>
                   <l>And on me laid thine Hand.</l>
                   <l>
@@ -12308,7 +12308,7 @@
                      <l>And, in the Depth of Earth, the Parts</l>
                      <l>To closest Union brought.</l>
                      <l>
-                        <pb n="240" facs="tcp:006820_0241_0000000000000000"/>
+                        <pb n="240" facs="unknown:006820_0241_0000000000000000"/>
                         <milestone type="tcpmilestone" unit="unspecified" n="16"/> Thine Eyes beheld my unform'd Mass,</l>
                      <l>The daily Growth it took;</l>
                      <l>And all my Members yet unshap'd,</l>
@@ -12355,7 +12355,7 @@
                   </div>
                </div>
                <div n="140" type="Psalm">
-                  <pb n="241" facs="tcp:006820_0242_0000000000000000"/>
+                  <pb n="241" facs="unknown:006820_0242_0000000000000000"/>
                   <head>
                      <hi>PSALM</hi> CXL.</head>
                   <l>LORD, save me from the evil Man,</l>
@@ -12399,7 +12399,7 @@
                   <l>Shall all the Malice of their Lips,</l>
                   <l>Come down, with all it's Weight.</l>
                   <l>
-                     <pb n="242" facs="tcp:006820_0243_0000000000000000"/>
+                     <pb n="242" facs="unknown:006820_0243_0000000000000000"/>
                      <milestone type="tcpmilestone" unit="unspecified" n="10"/> Hot burning Coals on them shall fall;</l>
                   <l>They shall be burnt with Fire;</l>
                   <l>In Pits, from whence they ne'er shall rise,</l>
@@ -12444,7 +12444,7 @@
                   <l>My Head, but heal like Balm; my Pray'r,</l>
                   <l>In their Distress, I'll make.</l>
                   <l>
-                     <pb n="243" facs="tcp:006820_0244_0000000000000000"/>
+                     <pb n="243" facs="unknown:006820_0244_0000000000000000"/>
                      <milestone type="tcpmilestone" unit="unspecified" n="6"/> When cast into the Rock,</l>
                   <l>Their Chiefs lay at my Feet,</l>
                   <l>Within my Pow'r; they heard my Words<g ref="char:punc">▪</g>
@@ -12490,7 +12490,7 @@
                   <l>All Refuge fail'd, ev'n Flight was fled,</l>
                   <l>None for my Soul did care.</l>
                   <l>
-                     <pb n="244" facs="tcp:006820_0245_0000000000000000"/>
+                     <pb n="244" facs="unknown:006820_0245_0000000000000000"/>
                      <milestone type="tcpmilestone" unit="unspecified" n="5"/> To Thee, O Lord, I cry'd, and said<g ref="char:punc">▪</g>
                   </l>
                   <l>"Thou art my Hope alone;</l>
@@ -12536,7 +12536,7 @@
                   <l>As thirsty Lands, in Summer's Heat,</l>
                   <l>That cooling Showers want.</l>
                   <div n="2" type="part">
-                     <pb n="245" facs="tcp:006820_0246_0000000000000000"/>
+                     <pb n="245" facs="unknown:006820_0246_0000000000000000"/>
                      <head>Second PART.</head>
                      <l>
                         <milestone type="tcpmilestone" unit="unspecified" n="7"/> Hear me with Speed, hide not thy Face,</l>
@@ -12586,7 +12586,7 @@
                   <l>In whom I trust; who, to my Pow'r,</l>
                   <l>Makes Tribes submit, and Nations yield.</l>
                   <l>
-                     <pb n="246" facs="tcp:006820_0247_0000000000000000"/>
+                     <pb n="246" facs="unknown:006820_0247_0000000000000000"/>
                      <milestone type="tcpmilestone" unit="unspecified" n="3"/> Lord! what is Man! or his frail Race!</l>
                   <l>That thy Concern thou him hast made!</l>
                   <l>
@@ -12633,7 +12633,7 @@
                      <l>As polish'd Pillars Courts surround,</l>
                      <l>Our blooming Daughters beauteous show.</l>
                      <l>
-                        <pb n="247" facs="tcp:006820_0248_0000000000000000"/>
+                        <pb n="247" facs="unknown:006820_0248_0000000000000000"/>
                         <milestone type="tcpmilestone" unit="unspecified" n="13"/> Our Magazines be fill'd with Store,</l>
                      <l>Of ev'ry Kind of pleasant Grains;</l>
                      <l>Our num'rous Flocks encreasing more,</l>
@@ -12687,7 +12687,7 @@
                      <milestone type="tcpmilestone" unit="unspecified" n="9"/> He's good to all; in ev'ry Place,</l>
                   <l>His tender Mercies flow.</l>
                   <l>
-                     <pb n="248" facs="tcp:006820_0249_0000000000000000"/>
+                     <pb n="248" facs="unknown:006820_0249_0000000000000000"/>
                      <milestone type="tcpmilestone" unit="unspecified" n="10"/> Thee, all thy Works, O Lord, shall praise;</l>
                   <l>And Thee thy Saints shall bless:</l>
                   <l>
@@ -12738,7 +12738,7 @@
                   </div>
                </div>
                <div n="146" type="Psalm">
-                  <pb n="249" facs="tcp:006820_0250_0000000000000000"/>
+                  <pb n="249" facs="unknown:006820_0250_0000000000000000"/>
                   <head>
                      <hi>PSALM</hi> CXLVI.</head>
                   <l>PRaise God; my Soul praise thou the Lord.</l>
@@ -12786,7 +12786,7 @@
                   <l>O give <hi>Iehovah</hi> praise.</l>
                </div>
                <div n="147" type="Psalm">
-                  <pb n="250" facs="tcp:006820_0251_0000000000000000"/>
+                  <pb n="250" facs="unknown:006820_0251_0000000000000000"/>
                   <head>
                      <hi>PSALM</hi> CXLVII.</head>
                   <l>PRaise ye the Lord; 'tis good to sing</l>
@@ -12841,7 +12841,7 @@
                         <milestone type="tcpmilestone" unit="unspecified" n="15"/> On Earth he sends forth his Decrees;</l>
                      <l>His Word, like Light'ning, swiftly flees.</l>
                      <l>
-                        <pb n="251" facs="tcp:006820_0252_0000000000000000"/>
+                        <pb n="251" facs="unknown:006820_0252_0000000000000000"/>
                         <milestone type="tcpmilestone" unit="unspecified" n="16"/> Like Wool, he cloaths the Ground, with Snows;</l>
                      <l>His hoary Frost, as Ashes, throws:</l>
                      <l>
@@ -12887,7 +12887,7 @@
                   <l>Above the Skies,</l>
                   <l>His Praise proclaim.</l>
                   <l>
-                     <pb n="252" facs="tcp:006820_0253_0000000000000000"/>
+                     <pb n="252" facs="unknown:006820_0253_0000000000000000"/>
                      <milestone type="tcpmilestone" unit="unspecified" n="5"/> Let them in this Accord,</l>
                   <l>To praise <hi>Iehovah</hi>'s Name;</l>
                   <l>For he but spake the Word,</l>
@@ -12930,7 +12930,7 @@
                   <l>Transcend the Skies,</l>
                   <l>And ev'ry Star.</l>
                   <l>
-                     <pb n="253" facs="tcp:006820_0254_0000000000000000"/>
+                     <pb n="253" facs="unknown:006820_0254_0000000000000000"/>
                      <milestone type="tcpmilestone" unit="unspecified" n="14"/> His People's Horn he rais'd,</l>
                   <l>And high advanc'd their Fame;</l>
                   <l>By all his Saints is prais'd</l>
@@ -12975,7 +12975,7 @@
                      <l>While their Right-hand does grasp, and wield,</l>
                      <l>The 'vengefull Two-edg'd Sword,</l>
                      <l>
-                        <pb n="254" facs="tcp:006820_0255_0000000000000000"/>
+                        <pb n="254" facs="unknown:006820_0255_0000000000000000"/>
                         <milestone type="tcpmilestone" unit="unspecified" n="7"/> On Heathen just Revenge to take,</l>
                      <l>And punish those design'd;</l>
                      <l>
@@ -13023,7 +13023,7 @@
                      <l>Whilst a two-edged Sword</l>
                      <l>Their Right-hand does wield.</l>
                      <l>
-                        <pb n="255" facs="tcp:006820_0256_0000000000000000"/>
+                        <pb n="255" facs="unknown:006820_0256_0000000000000000"/>
                         <milestone type="tcpmilestone" unit="unspecified" n="7"/> Just Vengeance to take</l>
                      <l>For Injuries past;</l>
                      <l>And punish those Lands</l>
@@ -13070,7 +13070,7 @@
             </trailer>
          </div>
          <div type="collection">
-            <pb n="256" facs="tcp:006820_0257_0000000000000000"/>
+            <pb n="256" facs="unknown:006820_0257_0000000000000000"/>
             <head>The SONG of <hi>MOSES.</hi>
             </head>
             <div type="part">
@@ -13115,7 +13115,7 @@
                <l>They stood upright, in the Mid-sea</l>
                <l>Congealed was the Deep.</l>
                <l>
-                  <pb n="257" facs="tcp:006820_0258_0000000000000000"/>
+                  <pb n="257" facs="unknown:006820_0258_0000000000000000"/>
                   <milestone type="tcpmilestone" unit="unspecified" n="9"/> The En'my cry'd, Pursue, o'ertake,</l>
                <l>I will the Spoil divide;</l>
                <l>I'll draw my Sword, and them destroy,</l>
@@ -13162,7 +13162,7 @@
                <l>The Place, for thy fix'd Residence,</l>
                <l>Which thou, O Lord, hast made:</l>
                <l>
-                  <pb n="258" facs="tcp:006820_0259_0000000000000000"/>The chosen holy Place thine Hand,</l>
+                  <pb n="258" facs="unknown:006820_0259_0000000000000000"/>The chosen holy Place thine Hand,</l>
                <l>O Lord, hath settled fast.</l>
                <l>
                   <milestone type="tcpmilestone" unit="unspecified" n="18"/> Thy Reign, O thou eternal King!</l>
@@ -13207,7 +13207,7 @@
                   <milestone type="tcpmilestone" unit="unspecified" n="4"/> A Rock, whose Work Perfection claims,</l>
                <l>His Ways all Judgment are;</l>
                <l>
-                  <pb n="259" facs="tcp:006820_0260_0000000000000000"/>A God of Truth, unspotted pure,</l>
+                  <pb n="259" facs="unknown:006820_0260_0000000000000000"/>A God of Truth, unspotted pure,</l>
                <l>And just beyond compare.</l>
                <l>
                   <milestone type="tcpmilestone" unit="unspecified" n="5"/> But they themselves corrupted have,</l>
@@ -13254,7 +13254,7 @@
                   <milestone type="tcpmilestone" unit="unspecified" n="12"/> So did the Lord alone sustain,</l>
                <l>And lead them in his Care;</l>
                <l>
-                  <pb n="260" facs="tcp:006820_0261_0000000000000000"/>And to assist him there wss none,</l>
+                  <pb n="260" facs="unknown:006820_0261_0000000000000000"/>And to assist him there wss none,</l>
                <l>No foreign God was there.</l>
                <l>
                   <milestone type="tcpmilestone" unit="unspecified" n="13"/> On Earth's high Places made him ride</l>
@@ -13295,7 +13295,7 @@
                   <milestone type="tcpmilestone" unit="unspecified" n="20"/> Therefore he said, I'll mark their End,</l>
                <l>From them I'll hide my Face;</l>
                <l>
-                  <pb n="261" facs="tcp:006820_0262_0000000000000000"/>For they are froward Children grown,</l>
+                  <pb n="261" facs="unknown:006820_0262_0000000000000000"/>For they are froward Children grown,</l>
                <l>A very faithless Race.</l>
                <l>
                   <milestone type="tcpmilestone" unit="unspecified" n="21"/> Since they, with that which is not God,</l>
@@ -13335,7 +13335,7 @@
                   <milestone type="tcpmilestone" unit="unspecified" n="27"/> But that I fear'd the Pride of Foes,</l>
                <l>Lest insolently they</l>
                <l>
-                  <pb n="262" facs="tcp:006820_0263_0000000000000000"/>Behave; and our high Hand, not God,</l>
+                  <pb n="262" facs="unknown:006820_0263_0000000000000000"/>Behave; and our high Hand, not God,</l>
                <l>Hath done all this should say.</l>
                <l>
                   <milestone type="tcpmilestone" unit="unspecified" n="28"/> For they're a Nation void of Sense,</l>
@@ -13378,7 +13378,7 @@
                   <milestone type="tcpmilestone" unit="unspecified" n="37"/> Then will he say, "Where are your Gods,</l>
                <l>"You look'd to for Defence?</l>
                <l>
-                  <pb n="263" facs="tcp:006820_0264_0000000000000000"/>Where's now your Rock of Strength, in whom</l>
+                  <pb n="263" facs="unknown:006820_0264_0000000000000000"/>Where's now your Rock of Strength, in whom</l>
                <l>"Ye plac'd your Confidence?</l>
                <l>
                   <milestone type="tcpmilestone" unit="unspecified" n="38"/>"Which on fat Sacrifices fed,</l>
@@ -13419,7 +13419,7 @@
                <l>When the brave People freely did</l>
                <l>Their Lives, for Liberty, expose.</l>
                <l>
-                  <pb n="264" facs="tcp:006820_0265_0000000000000000"/>
+                  <pb n="264" facs="unknown:006820_0265_0000000000000000"/>
                   <milestone type="tcpmilestone" unit="unspecified" n="3"/> Hear, O ye Kings, Princes give Ear,</l>
                <l>Whilst I to great <hi>Iehovah</hi> sing;</l>
                <l>In sacred Numbers shout the Praise</l>
@@ -13460,7 +13460,7 @@
                <l>Ye Trav'lers join the sacred Song,</l>
                <l>Who safely go where ye think fit.</l>
                <l>
-                  <pb n="265" facs="tcp:006820_0266_0000000000000000"/>
+                  <pb n="265" facs="unknown:006820_0266_0000000000000000"/>
                   <milestone type="tcpmilestone" unit="unspecified" n="11"/> Ye that from th' Archer's Noise are freed,</l>
                <l>Lurking at ev'ry wat'ring Place,</l>
                <l>
@@ -13501,7 +13501,7 @@
                <l>The Conduct of which potent Tribe</l>
                <l>Made great Impressions on our Hearts.</l>
                <l>
-                  <pb n="266" facs="tcp:006820_0267_0000000000000000"/>
+                  <pb n="266" facs="unknown:006820_0267_0000000000000000"/>
                   <milestone type="tcpmilestone" unit="unspecified" n="16"/> Did'st fear the losing of thy Sheep,</l>
                <l>That thou among the Sheepfolds stay'd<g ref="char:punc">▪</g>
                </l>
@@ -13543,7 +13543,7 @@
                <l>Their Speed is stop'd, they tumbling cast</l>
                <l>Their mighty Riders to the Ground.</l>
                <l>
-                  <pb n="267" facs="tcp:006820_0268_0000000000000000"/>
+                  <pb n="267" facs="unknown:006820_0268_0000000000000000"/>
                   <milestone type="tcpmilestone" unit="unspecified" n="23"/> Curse <hi>Meroz,</hi> said God's Angel, Curse</l>
                <l>All bitterly to her belong;</l>
                <l>For they refus'd to help the Lord,</l>
@@ -13586,7 +13586,7 @@
                <l>Of Needle Work, on either Side,</l>
                <l>Fit to adorn the Conqu'rour's Neck?</l>
                <l>
-                  <pb n="268" facs="tcp:006820_0269_0000000000000000"/>
+                  <pb n="268" facs="unknown:006820_0269_0000000000000000"/>
                   <milestone type="tcpmilestone" unit="unspecified" n="31"/> So, Lord, may all thine Enemies</l>
                <l>In Ruin sink, and perish quite:</l>
                <l>But those that love Thee, like the Sun</l>
@@ -13622,7 +13622,7 @@
                <l>Who hate me, Death embrace.</l>
             </div>
             <div type="part">
-               <pb n="269" facs="tcp:006820_0270_0000000000000000"/>
+               <pb n="269" facs="unknown:006820_0270_0000000000000000"/>
                <head>
                   <hi>ISAIAH</hi> II.</head>
                <l>
@@ -13673,7 +13673,7 @@
                <l>Upon his Shoulders shall be lay'd</l>
                <l>The Government of Earth, and Heav'n;</l>
                <l>
-                  <pb n="270" facs="tcp:006820_0271_0000000000000000"/>His Name is called Wonderfull,</l>
+                  <pb n="270" facs="unknown:006820_0271_0000000000000000"/>His Name is called Wonderfull,</l>
                <l>The Counsellour, the mighty God,</l>
                <l>Eternal Father, Prince of Peace:</l>
                <l>Peace dearly purchas'd with his Blood.</l>
@@ -13717,7 +13717,7 @@
                <l>In Heav'n be glorify'd.</l>
             </div>
             <div type="part">
-               <pb n="271" facs="tcp:006820_0272_0000000000000000"/>
+               <pb n="271" facs="unknown:006820_0272_0000000000000000"/>
                <head>
                   <hi>ISAIAH</hi> LIII.</head>
                <l>LORD, who hath our Report believ'd?</l>
@@ -13764,7 +13764,7 @@
                <l>He'll see his Seed, prolong his Days,</l>
                <l>And prosper in God's Works of Grace.</l>
                <l>
-                  <pb n="272" facs="tcp:006820_0273_0000000000000000"/>
+                  <pb n="272" facs="unknown:006820_0273_0000000000000000"/>
                   <milestone type="tcpmilestone" unit="unspecified" n="11"/> With joyful Satisfaction, he</l>
                <l>The Travel of his Soul shall see;</l>
                <l>And by his Knowledge justify</l>
@@ -13814,7 +13814,7 @@
                   </gap>, them reward.</l>
             </div>
             <div type="part">
-               <pb n="273" facs="tcp:006820_0274_0000000000000000"/>
+               <pb n="273" facs="unknown:006820_0274_0000000000000000"/>
                <head>LUKE <hi>I:</hi> The Song of <hi>MARY.</hi>
                </head>
                <l>
@@ -13867,7 +13867,7 @@
                   <milestone type="tcpmilestone" unit="unspecified" n="70"/> As, by his holy Prophets Mouth,</l>
                <l>He did from first declare.</l>
                <l>
-                  <pb n="274" facs="tcp:006820_0275_0000000000000000"/>
+                  <pb n="274" facs="unknown:006820_0275_0000000000000000"/>
                   <milestone type="tcpmilestone" unit="unspecified" n="71"/> That we should, from our Enemies,</l>
                <l>Compleat Salvation gain;</l>
                <l>And from the Hand of all us hate</l>
@@ -13920,7 +13920,7 @@
                      <desc>〈…〉</desc>
                   </gap> to all Mankind.</l>
                <l>
-                  <pb n="275" facs="tcp:006820_0276_0000000000000000"/>
+                  <pb n="275" facs="unknown:006820_0276_0000000000000000"/>
                   <milestone type="tcpmilestone" unit="unspecified" n="11"/> For unto you, in <hi>David</hi>'s Town,</l>
                <l>(As sacred Rolls record,)</l>
                <l>This very Day a Saviour's born,</l>
@@ -13966,7 +13966,7 @@
                <l>Who, by his own most precious Blood,</l>
                <l>Hath wash'd away our Stains;</l>
                <l>
-                  <pb n="276" facs="tcp:006820_0277_0000000000000000"/>
+                  <pb n="276" facs="unknown:006820_0277_0000000000000000"/>
                   <milestone type="tcpmilestone" unit="unspecified" n="6"/> And made us Kings, and Priests, to God,</l>
                <l>His Father, we adore,</l>
                <l>Be Glory, and Dominion, now,</l>
@@ -14017,7 +14017,7 @@
                <l>Glory, and Praise, from ev'ry Tongue.</l>
             </div>
             <div type="song">
-               <pb n="277" facs="tcp:006820_0278_0000000000000000"/>
+               <pb n="277" facs="unknown:006820_0278_0000000000000000"/>
                <head>REV. <hi>V.</hi> The Song of all the Creatures.</head>
                <l>
                   <milestone type="tcpmilestone" unit="unspecified" n="13"/> LET Heaven, and Earth, unite, to pay</l>
@@ -14060,7 +14060,7 @@
                <l>When Time itself shall be no more.</l>
             </div>
             <div type="form">
-               <pb n="278" facs="tcp:006820_0279_0000000000000000"/>
+               <pb n="278" facs="unknown:006820_0279_0000000000000000"/>
                <head>As Psalm <hi>148<hi rend="sup">th</hi>.</hi>
                </head>
                <l>TO God the Father, Son,</l>
@@ -14089,7 +14089,7 @@
       </body>
       <back>
          <div type="errata">
-            <pb facs="tcp:006820_0280_0000000000000000"/>
+            <pb facs="unknown:006820_0280_0000000000000000"/>
             <head>ERRATA. The Author's Distance from the Press has ad<g ref="char:EOLhyphen"/>mitted the following <hi>Errata.</hi>
             </head>
             <p>
@@ -14392,7 +14392,7 @@
             <p>In various Places read <hi>Desart,</hi> and <hi>Desarts</hi>: Many Errors in Pointing have slip'd the Press, which an intelligent, Reader will easily correct.</p>
          </div>
          <div type="rules_for_singing">
-            <pb n="1" facs="tcp:006820_0281_0000000000000000"/>
+            <pb n="1" facs="unknown:006820_0281_0000000000000000"/>
             <head>To learn to sing, observe these RULES.</head>
             <p n="1">
                <hi>1.</hi> Learn this Scale (called <hi>Gamut.</hi>) perfectly. 
@@ -14623,7 +14623,7 @@ A Prick on the right Side of a Note make it half as long again, as 𝆹· is �
                </gap>
             </p>
             <div type="music">
-               <pb n="2" facs="tcp:006820_0282_0000000000000000"/>
+               <pb n="2" facs="unknown:006820_0282_0000000000000000"/>
                <head>Anthem.</head>
                <p>
                   <gap reason="music">
@@ -14680,7 +14680,7 @@ A Prick on the right Side of a Note make it half as long again, as 𝆹· is �
                </p>
             </div>
             <div type="music">
-               <pb n="3" facs="tcp:006820_0283_0000000000000000"/>
+               <pb n="3" facs="unknown:006820_0283_0000000000000000"/>
                <head>S<hi rend="sup">t</hi>. Iames's.</head>
                <p>
                   <gap reason="music">
@@ -14738,7 +14738,7 @@ A Prick on the right Side of a Note make it half as long again, as 𝆹· is �
                </p>
             </div>
             <div type="music">
-               <pb n="4" facs="tcp:006820_0284_0000000000000000"/>
+               <pb n="4" facs="unknown:006820_0284_0000000000000000"/>
                <head>Southwell.</head>
                <p>
                   <gap reason="music">
@@ -14791,7 +14791,7 @@ A Prick on the right Side of a Note make it half as long again, as 𝆹· is �
                </p>
             </div>
             <div type="music">
-               <pb n="5" facs="tcp:006820_0285_0000000000000000"/>
+               <pb n="5" facs="unknown:006820_0285_0000000000000000"/>
                <head>Windsor.</head>
                <p>
                   <gap reason="music">
@@ -14848,7 +14848,7 @@ A Prick on the right Side of a Note make it half as long again, as 𝆹· is �
                </p>
             </div>
             <div type="music">
-               <pb n="6" facs="tcp:006820_0286_0000000000000000"/>
+               <pb n="6" facs="unknown:006820_0286_0000000000000000"/>
                <head>Mear.</head>
                <p>
                   <gap reason="music">
@@ -14907,7 +14907,7 @@ A Prick on the right Side of a Note make it half as long again, as 𝆹· is �
                </p>
             </div>
             <div type="music">
-               <pb n="7" facs="tcp:006820_0287_0000000000000000"/>
+               <pb n="7" facs="unknown:006820_0287_0000000000000000"/>
                <head>
                   <hi>PSALM</hi> LXXXI.</head>
                <p>
@@ -14956,7 +14956,7 @@ A Prick on the right Side of a Note make it half as long again, as 𝆹· is �
                </p>
             </div>
             <div type="music">
-               <pb n="8" facs="tcp:006820_0288_0000000000000000"/>
+               <pb n="8" facs="unknown:006820_0288_0000000000000000"/>
                <head>
                   <hi>PS.</hi> CVIII. or <hi>Humphrey's.</hi>
                </head>
@@ -15006,7 +15006,7 @@ A Prick on the right Side of a Note make it half as long again, as 𝆹· is �
                </p>
             </div>
             <div type="music">
-               <pb n="9" facs="tcp:006820_0289_0000000000000000"/>
+               <pb n="9" facs="unknown:006820_0289_0000000000000000"/>
                <head>
                   <hi>Psalm</hi> 122. <hi>old Tune.</hi>
                </head>
@@ -15057,7 +15057,7 @@ A Prick on the right Side of a Note make it half as long again, as 𝆹· is �
                   </gap>. Turner se.</p>
             </div>
             <div type="music">
-               <pb n="10" facs="tcp:006820_0290_0000000000000000"/>
+               <pb n="10" facs="unknown:006820_0290_0000000000000000"/>
                <head>London old.</head>
                <p>
                   <gap reason="music">
@@ -15114,7 +15114,7 @@ A Prick on the right Side of a Note make it half as long again, as 𝆹· is �
                </p>
             </div>
             <div type="music">
-               <pb n="11" facs="tcp:006820_0291_0000000000000000"/>
+               <pb n="11" facs="unknown:006820_0291_0000000000000000"/>
                <head>Psalm 149.</head>
                <p>
                   <gap reason="music">
@@ -15166,7 +15166,7 @@ A Prick on the right Side of a Note make it half as long again, as 𝆹· is �
                </p>
             </div>
             <div type="music">
-               <pb n="12" facs="tcp:006820_0292_0000000000000000"/>
+               <pb n="12" facs="unknown:006820_0292_0000000000000000"/>
                <head>S<hi rend="sup">t</hi>. David's.</head>
                <p>
                   <gap reason="music">
@@ -15223,7 +15223,7 @@ A Prick on the right Side of a Note make it half as long again, as 𝆹· is �
                </p>
             </div>
             <div type="music">
-               <pb n="13" facs="tcp:006820_0293_0000000000000000"/>
+               <pb n="13" facs="unknown:006820_0293_0000000000000000"/>
                <head>Martyr's.</head>
                <p>
                   <gap reason="music">
@@ -15280,7 +15280,7 @@ A Prick on the right Side of a Note make it half as long again, as 𝆹· is �
                </p>
             </div>
             <div type="music">
-               <pb n="14" facs="tcp:006820_0294_0000000000000000"/>
+               <pb n="14" facs="unknown:006820_0294_0000000000000000"/>
                <head>Te Deum.</head>
                <p>
                   <gap reason="music">
@@ -15332,7 +15332,7 @@ A Prick on the right Side of a Note make it half as long again, as 𝆹· is �
                </p>
             </div>
             <div type="music">
-               <pb n="15" facs="tcp:006820_0295_0000000000000000"/>
+               <pb n="15" facs="unknown:006820_0295_0000000000000000"/>
                <head>
                   <hi>PSALM</hi> CXIX.</head>
                <p>
@@ -15386,7 +15386,7 @@ A Prick on the right Side of a Note make it half as long again, as 𝆹· is �
                </p>
             </div>
             <div type="music">
-               <pb n="16" facs="tcp:006820_0296_0000000000000000"/>
+               <pb n="16" facs="unknown:006820_0296_0000000000000000"/>
                <head>Ten Commandment.</head>
                <p>
                   <gap reason="music">
